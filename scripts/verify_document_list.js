@@ -1,0 +1,24 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const source=fs.readFileSync('frontend/index.html','utf8').split('<script>')[1].split('</script>')[0];
+const nodes=new Map();const $=id=>{if(!nodes.has(id))nodes.set(id,{value:'',checked:false,textContent:'',options:[],replaceChildren(){this.options=[]},add(o){this.options.push(o)}});return nodes.get(id)};
+const pending=[];
+const context={$,doc:'current',documentsListLoad:0,encodeURIComponent,Option:class{constructor(label,value){this.text=label;this.value=value}},api:url=>new Promise(resolve=>pending.push({url,resolve}))};
+vm.createContext(context);
+vm.runInContext(source.slice(source.indexOf('async function loadDocumentsList(){'),source.indexOf("$('docSelect').onchange")),context);
+(async()=>{
+ const old=context.loadDocumentsList();
+ $('showAuxiliary').checked=true;const newer=context.loadDocumentsList();
+ pending[1].resolve({items:[{id:'current',filename:'Current.dwg'},{id:'duplicate',filename:'Current.dwg',duplicate_of:'current'}],hidden_count:0});await newer;
+ pending[0].resolve({items:[{id:'old',filename:'Old.dwg'}],hidden_count:6});await old;
+ assert.equal($('docSelect').options.length,2);
+ assert($('docSelect').options[0].selected);
+ assert($('docSelect').options[1].text.includes('bản tải trùng'));
+ assert(pending[0].url.includes('include_auxiliary=false'));
+ assert(pending[1].url.includes('current=current'));
+ $('showAuxiliary').checked=false;const clean=context.loadDocumentsList();
+ pending[2].resolve({items:[{id:'current',filename:'Current.dwg'}],hidden_count:6});await clean;
+ assert.equal($('docSelect').options.length,1);
+ assert.equal($('docSelect').options[0].text,'Current.dwg');
+ assert($('documentsNote').textContent.includes('6'));
+ console.log('Document list grouping controls, explicit selection and late toggle responses: passed');
+})().catch(e=>{console.error(e);process.exitCode=1});

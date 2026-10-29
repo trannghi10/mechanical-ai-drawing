@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    ".pytest_cache": true,
+    "autodesk/**/obj": true,
+    "autodesk/**/obj-local": true,
+    "autodesk/**/bin": true,
+    "autodesk/**/bin-local": true
+  }
+}

@@ -1,0 +1,5 @@
+Title: CAD trước/sau: 169 nét cũ đỏ; 169 nét mới xanh
+Groups count: 3
+  Group 1 (opacity=0.32): 0 paths
+  Group 2 (opacity=0.9): 0 paths
+  Group 3 (opacity=1): 0 paths

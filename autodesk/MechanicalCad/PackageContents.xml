@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AppVersion="1.0.0" ProductCode="{CDA387B6-5204-436A-93E9-581A85F5D5F0}" Name="MechanicalCad" Description="Bounded DWG read/edit/validation for APS" Author="Mechanical AI Drawing">
+  <CompanyDetails Name="Mechanical AI Drawing" />
+  <Components>
+    <RuntimeRequirements OS="Win64" Platform="AutoCAD*" SeriesMin="R25.0" SeriesMax="R25.0" />
+    <ComponentEntry AppName="MechanicalCad" ModuleName="./Contents/MechanicalCad.dll" AppDescription="Mechanical CAD native adapter" LoadOnAutoCADStartup="True">
+      <Commands GroupName="MechanicalCad"><Command Global="MECHANICALCAD" Local="MECHANICALCAD" /></Commands>
+    </ComponentEntry>
+  </Components>
+</ApplicationPackage>

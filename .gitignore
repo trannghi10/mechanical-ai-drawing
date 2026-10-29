@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+storage/
+autodesk/**/bin/
+autodesk/**/obj/
+autodesk/**/*.zip
+autodesk/**/bin-local/
+autodesk/**/obj-local/
+autodesk/local/

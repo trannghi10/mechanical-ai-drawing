@@ -1,0 +1,33 @@
+id: 96c193e5eabc45329c5f9bb4b23bb3f8
+document_id: 34ee84f35e1a44fb81c56044397a0fff
+status: proposal_only
+request: Tất cả vật liệu sắt tấm cắt lazer đổi từ 1.5 mm thành 1mm
+target_ids: list of 71
+targets: list of 71
+root_target_ids: list of 71
+root_bom_refs: list of 9
+scope_links: list of 0
+review_only_ids: list of 0
+provider: gemini
+model: gemini-2.5-flash
+planner: checked_assembly_resize
+impact_graph: dict with keys ['source_hash', 'document_id', 'detection_hash', 'version', 'seed_codes']
+document_reading: dict with keys ['status', 'complete_design_understanding', 'edit_authorized', 'job_id', 'source_hash']
+reading_profile: dict with keys ['id', 'name', 'source_hash', 'status', 'assembly_count']
+interpreted_intent: None
+request_review: None
+size_interpretation: list of 0
+clarifications: list of 0
+request_interpretation: None
+dimension_choices: list of 0
+fulfillment_review: None
+material_input_review: list of 0
+packaging_review: list of 0
+forming_review: list of 0
+source_hash: 489b241478f8ad569f5061ceb8b81147cbee51d300ddd7b1c8eef01da03dc8af
+plan: dict with keys ['summary', 'target_part', 'edits', 'dependencies', 'questions']
+execution_available: False
+message: Engine tính hình học theo nguồn và đồng bộ mô tả/BOM; liên kết chưa đủ bằng chứng vẫn chặn thực thi.
+changed_targets: list of 37
+edit_gate: dict with keys ['version', 'phase', 'mode', 'preview_allowed', 'auto_release_allowed']
+relationship_evidence: list of 1

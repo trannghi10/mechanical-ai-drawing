@@ -1,0 +1,416 @@
+{
+  "inner": {
+    "summary": "Đồng bộ Chi tiết 8.1.00499.008 (-1.5mm) trên toàn bộ các công đoạn, bản vẽ chi tiết và bảng kê vật liệu BOM.",
+    "target_part": "8.1.00499.008",
+    "edits": [
+      {
+        "entity_ref": "3ECF99",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3ECF99/3ECFA9",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3FA919",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3FA919/3FBD0A",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3D4987",
+        "part_number": "6",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "reason": "Đổi 481.5 thành 480"
+      },
+      {
+        "entity_ref": "3E4E8F",
+        "part_number": "6",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x481.5mm (Cắt laser)}",
+        "after": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x480mm (Cắt laser)}",
+        "reason": "Đổi 481.5 thành 480"
+      },
+      {
+        "entity_ref": "3D3A67",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88062.4533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88063.9533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "reason": "Đổi kích thước 8.1.00499.008 481.5 -> 480 mm"
+      },
+      {
+        "entity_ref": "3F4F27",
+        "part_number": "",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)\\P}",
+        "reason": "Cập nhật BOM chi tiết 8.1.00497.003 (1038 -> 1036.5 mm)"
+      },
+      {
+        "entity_ref": "3E6CBB",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89969.74065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89971.24065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "reason": "Chi tiết 8.1.00499.008: Đồng bộ DIM (481.5 -> 480 mm) trên bản vẽ 3E4E7A"
+      },
+      {
+        "entity_ref": "3D3B24",
+        "part_number": "",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Hàn gò)}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403B"
+      },
+      {
+        "entity_ref": "3D3B77",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54979.28435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54977.78435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403B"
+      },
+      {
+        "entity_ref": "3D4A4F",
+        "part_number": "",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403C"
+      },
+      {
+        "entity_ref": "3EB5E3",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55200.75915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55199.25915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403C"
+      }
+    ],
+    "dependencies": [],
+    "questions": [],
+    "warnings": [
+      "Lưu ý công đoạn: các mã liên quan 8.1.00499.008 chưa được sửa tự động kéo theo; chi tiết chính đã được tạo bản sửa."
+    ],
+    "operations": [
+      {
+        "ref": "3D3A67",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88062.4533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88063.9533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "xyz": [],
+        "reason": "Đổi kích thước 8.1.00499.008 481.5 -> 480 mm",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3ECF99",
+        "action": "table_cell",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480 trong BOM",
+        "cell_index": 20,
+        "mirror_ref": "3ECF99/3ECFA9"
+      },
+      {
+        "ref": "3ECF99/3ECFA9",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "xyz": [],
+        "reason": "Đồng bộ text mirror bảng kê 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3FA919",
+        "action": "table_cell",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480 trong BOM",
+        "cell_index": 44,
+        "mirror_ref": "3FA919/3FBD0A"
+      },
+      {
+        "ref": "3FA919/3FBD0A",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "xyz": [],
+        "reason": "Đồng bộ text mirror bảng kê 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D4987",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3E4E8F",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x481.5mm (Cắt laser)}",
+        "after": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x480mm (Cắt laser)}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3F4F27",
+        "action": "table_cell",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)\\P}",
+        "xyz": [],
+        "reason": "Cập nhật BOM chi tiết 8.1.00497.003 (1038 -> 1036.5 mm)",
+        "cell_index": 20,
+        "mirror_ref": "3F4F27/3F4F37"
+      },
+      {
+        "ref": "3F4F27/3F4F37",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)\\P}",
+        "xyz": [],
+        "reason": "Đồng bộ text bảng kê 8.1.00497.003 (1038 -> 1036.5 mm)",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3E6CBB",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89969.74065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89971.24065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00499.008: Đồng bộ DIM (481.5 -> 480 mm) trên bản vẽ 3E4E7A",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D3B24",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Hàn gò)}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403B",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D3B77",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54979.28435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54977.78435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403B",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D4A4F",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403C",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3EB5E3",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55200.75915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55199.25915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403C",
+        "cell_index": -1,
+        "mirror_ref": ""
+      }
+    ],
+    "geometry_requests": [],
+    "context_requests": [],
+    "geometry_queries": [],
+    "metadata_requests": [],
+    "resize_recipes": [],
+    "curved_wall_recipes": [],
+    "hole_recipes": [],
+    "cut_recipes": [],
+    "profile_cut_recipes": [],
+    "process_assessments": [
+      {
+        "part_code": "8.1.00498.008",
+        "stage_id": "machining",
+        "status": "unaffected",
+        "evidence_refs": [
+          "3ECF99",
+          "3ECF99/3ECFA4"
+        ],
+        "reason": "Chi tiết cùng công đoạn trong BOM nhưng không thuộc phạm vi sửa; giữ nguyên hình học và quy cách nguồn."
+      },
+      {
+        "part_code": "8.1.00499.008",
+        "stage_id": "machining",
+        "status": "unresolved",
+        "evidence_refs": [
+          "3ECF99",
+          "3ECF99/3ECFA9"
+        ],
+        "reason": "Cùng công đoạn Gia công trong BOM; chưa chứng minh mặt tiếp xúc và quy tắc co/giãn của chi tiết này."
+      },
+      {
+        "part_code": "8.1.00507.008",
+        "stage_id": "machining",
+        "status": "unaffected",
+        "evidence_refs": [
+          "3ECF99",
+          "3ECF99/3ECFAE"
+        ],
+        "reason": "Chi tiết cùng công đoạn trong BOM nhưng không thuộc phạm vi sửa; giữ nguyên hình học và quy cách nguồn."
+      }
+    ],
+    "requires_complete_product_review": false,
+    "native_span_fits": []
+  },
+  "edit_gate": {
+    "version": 1,
+    "phase": "plan",
+    "mode": "REVIEW",
+    "preview_allowed": true,
+    "auto_release_allowed": false,
+    "manual_release_allowed": false,
+    "certificate": null,
+    "checks": [
+      {
+        "id": "source_identity",
+        "status": "passed",
+        "detail": "Nguồn CAD khớp kế hoạch.",
+        "evidence_refs": []
+      },
+      {
+        "id": "source_reading",
+        "status": "passed",
+        "detail": "Đã đọc cấu trúc toàn file.",
+        "evidence_refs": []
+      },
+      {
+        "id": "constraints",
+        "status": "passed",
+        "detail": "Các thao tác trực tiếp đã qua kiểm nguồn, ràng buộc và hình học.",
+        "evidence_refs": [
+          "3D3A67",
+          "3ECF99",
+          "3ECF99/3ECFA9",
+          "3FA919",
+          "3FA919/3FBD0A",
+          "3D4987",
+          "3E4E8F",
+          "3F4F27",
+          "3F4F27/3F4F37",
+          "3E6CBB",
+          "3D3B24",
+          "3D3B77",
+          "3D4A4F",
+          "3EB5E3"
+        ]
+      },
+      {
+        "id": "intent_and_impact",
+        "status": "passed",
+        "detail": "Không còn câu hỏi trong kế hoạch đã kiểm.",
+        "evidence_refs": []
+      },
+      {
+        "id": "dependency_confirmation",
+        "status": "passed",
+        "detail": "Không có phụ thuộc đang yêu cầu xác nhận.",
+        "evidence_refs": []
+      },
+      {
+        "id": "relationship_evidence",
+        "status": "review",
+        "detail": "Có hình chi tiết, DIM hoặc quan hệ liên quan chưa đủ bằng chứng; cần kỹ sư đối chiếu.",
+        "evidence_refs": []
+      },
+      {
+        "id": "certification",
+        "status": "review",
+        "detail": "Chưa có chứng nhận loại sửa phù hợp; không tự phát hành.",
+        "evidence_refs": []
+      },
+      {
+        "id": "native_reopen",
+        "status": "review",
+        "detail": "Phải kiểm DWG kết quả sau lưu/mở lại trước khi phát hành.",
+        "evidence_refs": []
+      }
+    ],
+    "questions": [],
+    "binding": {
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "plan_hash": "6d436d406bc191052cba1e8c473c312164a4c1880572a7ada08243a97a61aeba",
+      "document_id": "5a1955b75d4345b69d19d38b7cfaf75c",
+      "plan_id": "25710fbf96f645eab9129dfd7da7d44f"
+    },
+    "basis": "current_source_and_verified_artifacts",
+    "model_confidence_used": false,
+    "policy": "AUTO cần loại sửa được chứng nhận, đủ quan hệ và DWG toàn hồ sơ mở lại đạt kiểm. REVIEW chỉ tạo bản đề xuất khi kiểm trực tiếp đạt. BLOCK không ghi CAD.",
+    "changed_refs": [
+      "3D3A67",
+      "3ECF99",
+      "3ECF99/3ECFA9",
+      "3FA919",
+      "3FA919/3FBD0A",
+      "3D4987",
+      "3E4E8F",
+      "3F4F27",
+      "3F4F27/3F4F37",
+      "3E6CBB",
+      "3D3B24",
+      "3D3B77",
+      "3D4A4F",
+      "3EB5E3"
+    ],
+    "relationship_evidence": [
+      {
+        "kind": "relationship_constraint",
+        "status": "review",
+        "detail": "Có quan hệ chi tiết liên quan nhưng chưa có quy tắc/mốc hình học thực thi.",
+        "evidence_refs": [],
+        "part_codes": [
+          "8.1.00497.003",
+          "8.1.00499.008"
+        ]
+      }
+    ]
+  },
+  "execution_available": true,
+  "message": "Engine tính hình học theo nguồn và đồng bộ mô tả/BOM; liên kết chưa đủ bằng chứng vẫn chặn thực thi."
+}

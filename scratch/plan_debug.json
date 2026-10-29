@@ -1,0 +1,5822 @@
+{
+  "id": "25710fbf96f645eab9129dfd7da7d44f",
+  "document_id": "5a1955b75d4345b69d19d38b7cfaf75c",
+  "status": "proposal_only",
+  "request": "Mã 8.1.00499.008: đổi chi tiết số 6 481.5mm thành 480mm",
+  "target_ids": [
+    "3E4E7A",
+    "404033",
+    "404029",
+    "40403B",
+    "3DE370",
+    "3E1BB7",
+    "3E7F12",
+    "40402C",
+    "40402D",
+    "404030",
+    "404031",
+    "404032",
+    "404034",
+    "404035",
+    "404036",
+    "404037",
+    "404038",
+    "40403A",
+    "40403C",
+    "40403D",
+    "40403E",
+    "40403F"
+  ],
+  "targets": [
+    {
+      "id": "3E4E7A",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "La ngắn (Ct6 · 9.1.00911)",
+      "texts": [
+        "DNTN SX-TM-DV\nQUỐC TRƯỞNG",
+        "Số Tờ: ",
+        "Người lập:",
+        "Kiểm Tra:",
+        "Duyệt:",
+        "Vật Liệu:",
+        "Tỉ Lệ:  1/1",
+        "Lần",
+        "Nội dung chỉnh sửa",
+        "Ngày sửa ",
+        "Ngày vẽ:",
+        "Mục Đích Sử Dụng:",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.3 mm",
+        "*YCKT 2:",
+        "Số Lượng:",
+        "Người sửa ",
+        "29/03/2021",
+        "01",
+        "*YCKT1:  CT6 \n    -Cắt Laser khí nén (oxy).",
+        "V.Q.Cường",
+        "Sắt",
+        "2",
+        "Bản Vẽ Tổ Phôi",
+        "Mã TP :",
+        "Tên sản phẩm :",
+        "Mã BTP :",
+        "La ngắn - sắt tấm 3x25x481.5mm (Cắt laser)",
+        "9.1.00911",
+        "8.1.00499.002",
+        "Layout cắt laser",
+        "Sắt tấm dày 3mm",
+        "SL: 156 chi tiết/ 1 tấm",
+        "SL: 2 chi tiết/ 1 khung",
+        "14/7/2022 2:29 PM",
+        "HDCV:   Cắt laser (tổ Phôi) → Lã (tổ Bản Lề)",
+        "-Mã nguyên liệu: 3.1.00025  Sắt tấm 3x1000x2000mm",
+        "Tỉ Lệ:  2/1"
+      ],
+      "bbox": [
+        -92934.62302210116,
+        54397.10287238588,
+        -89377.2230221012,
+        56939.50287238586
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00499.002"
+      ]
+    },
+    {
+      "id": "404033",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "La ngắn (Ct6 · 9.1.00911 · Tờ 02/02)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT6",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 02/02",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "2",
+        "Bản Vẽ Tổ Bản Lề ",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00499.008",
+        "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+        "\nHDCV: Lã (tổ Bản Lề) → Hàn gò (tổ Hàn)",
+        "\nLỗ lã thử với vít 4 đầu 8 thấp hơn 0.3 dến 0.5mm so với bề mặt."
+      ],
+      "bbox": [
+        -88875.0536558207,
+        54377.3028723859,
+        -87350.45365582067,
+        55466.90287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00499.008"
+      ]
+    },
+    {
+      "id": "404029",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Khung sắt (Chi Tiết 2 · 9.1.00911 · Tờ 01/01)",
+      "texts": [
+        "9.1.00911",
+        "Lần",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "Người lập:",
+        "01",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Kiểm tra :",
+        "Số lượng :",
+        "Tỷ lệ : 1/1",
+        "Số tờ : 01/01",
+        "Mục Đích Sử Dụng :",
+        "Vật liệu :",
+        "Mã TP :",
+        "Ngày vẽ :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Bảng Kê",
+        "1",
+        "Khung sắt + viền nhôm 471x1048mm & 40x1067mm (Surface Pb<90 ppm & Substrate Pb<600 ppm) - STĐ đen, viền nhôm đánh bùi nhùi ;HW-09-042L-PBL",
+        "V.Q.Cường",
+        "Sắt +Nhôm ",
+        "Mã BTP :",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "1",
+        "3",
+        "4",
+        "2",
+        "7",
+        "6",
+        "5",
+        "10",
+        "8",
+        "6",
+        "9",
+        "01",
+        "Đổi diễn giải chi tiết 2, 3",
+        "Trần V Công",
+        "13/09/2022",
+        "01",
+        "01",
+        "13/9/2022 3:27 PM"
+      ],
+      "bbox": [
+        -127317.7182339,
+        54372.35287238588,
+        -123887.3682339,
+        56823.9528723859
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911"
+      ]
+    },
+    {
+      "id": "40403B",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 01/02)",
+      "texts": [
+        "Lần",
+        "YCKT1:  Cụm 2",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 01/02",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "1",
+        "Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)",
+        "Bản Vẽ Tổ Hàn",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00497.009",
+        "HDCV : Hàn gò (tổ Hàn) → Nhám (tổ Nhám Tay)",
+        "5",
+        "6",
+        "7"
+      ],
+      "bbox": [
+        -79824.60608021017,
+        54337.7028723859,
+        -76775.40608021017,
+        56516.90287238591
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00497.009"
+      ]
+    },
+    {
+      "id": "3DE370",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Bas đế (Ct4 · 9.1.00911)",
+      "texts": [
+        "DNTN SX-TM-DV\nQUỐC TRƯỞNG",
+        "Số Tờ: ",
+        "Người lập:",
+        "Kiểm Tra:",
+        "Duyệt:",
+        "Vật Liệu:",
+        "Tỉ Lệ:  1/1",
+        "Lần",
+        "Nội dung chỉnh sửa",
+        "Ngày sửa ",
+        "Ngày vẽ:",
+        "Mục Đích Sử Dụng:",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.3 mm",
+        "*YCKT 2:",
+        "Số Lượng:",
+        "Người sửa ",
+        "29/03/2021",
+        "01",
+        "*YCKT1:  CT4 \n    -Cắt Laser khí nén (oxy).",
+        "V.Q.Cường",
+        "Sắt",
+        "4",
+        "Bản Vẽ Tổ Phôi",
+        "Mã TP :",
+        "Tên sản phẩm :",
+        "Mã BTP :",
+        "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+        "9.1.00911",
+        "8.1.00506.002",
+        "Layout cắt laser",
+        "Sắt tấm dày 5mm",
+        "SL: 1788 chi tiết/ 1 tấm",
+        "SL: 4 chi tiết/ 1 khung",
+        "2/8/2022 1:16 PM",
+        "HDCV:   Cắt laser (tổ Phôi) → Bào (tổ Phôi)",
+        "-Mã nguyên liệu: 3.1.00026\tSắt tấm 5x1000x2000mm",
+        "Tỉ Lệ:  10/1"
+      ],
+      "bbox": [
+        -109409.9567076768,
+        54416.90287238587,
+        -105852.5567076769,
+        56959.30287238585
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00506.002"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00506.002"
+    },
+    {
+      "id": "3E1BB7",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "La dài (Ct5 · 9.1.00911)",
+      "texts": [
+        "DNTN SX-TM-DV\nQUỐC TRƯỞNG",
+        "Số Tờ: ",
+        "Người lập:",
+        "Kiểm Tra:",
+        "Duyệt:",
+        "Vật Liệu:",
+        "Tỉ Lệ:  1/1",
+        "Lần",
+        "Nội dung chỉnh sửa",
+        "Ngày sửa ",
+        "Ngày vẽ:",
+        "Mục Đích Sử Dụng:",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.3 mm",
+        "*YCKT 2:",
+        "Số Lượng:",
+        "Người sửa ",
+        "29/03/2021",
+        "01",
+        "*YCKT1:  CT5 \n    -Cắt Laser khí nén (oxy).",
+        "V.Q.Cường",
+        "Sắt",
+        "1",
+        "Bản Vẽ Tổ Phôi",
+        "Mã TP :",
+        "Tên sản phẩm :",
+        "Mã BTP :",
+        "La dài - sắt tấm 3x25x988mm (Cắt laser)",
+        "9.1.00911",
+        "8.1.00498.002",
+        "Layout cắt laser",
+        "Sắt tấm dày 3mm",
+        "SL: 78 chi tiết/ 1 tấm",
+        "SL: 1 chi tiết/ 1 khung",
+        "14/7/2022 2:29 PM",
+        "HDCV:   Cắt laser (tổ Phôi) → Lã (tổ Bản Lề)",
+        "-Mã nguyên liệu: 3.1.00025  Sắt tấm 3x1000x2000mm",
+        "Tỉ Lệ:  1/1"
+      ],
+      "bbox": [
+        -99401.89993585827,
+        54397.10287238588,
+        -95844.49993585832,
+        56939.50287238586
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00498.002"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00498.008"
+    },
+    {
+      "id": "3E7F12",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Vòng La (Ct7 · 9.1.00911)",
+      "texts": [
+        "DNTN SX-TM-DV\nQUỐC TRƯỞNG",
+        "Số Tờ: ",
+        "Người lập:",
+        "Kiểm Tra:",
+        "Duyệt:",
+        "Vật Liệu:",
+        "Tỉ Lệ:  1/1",
+        "Lần",
+        "Nội dung chỉnh sửa",
+        "Ngày sửa ",
+        "Ngày vẽ:",
+        "Mục Đích Sử Dụng:",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.3 mm",
+        "*YCKT 2:",
+        "Số Lượng:",
+        "Người sửa ",
+        "29/03/2021",
+        "01",
+        "*YCKT1:  CT7 \n    -Cắt Laser khí nén (oxy).",
+        "V.Q.Cường",
+        "Sắt",
+        "4",
+        "Bản Vẽ Tổ Phôi",
+        "Mã TP :",
+        "Tên sản phẩm :",
+        "Mã BTP :",
+        "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Cắt laser)",
+        "9.1.00911",
+        "8.1.00507.002",
+        "Layout cắt laser",
+        "Sắt tấm dày 3mm",
+        "SL: 47 chi tiết/ 1 tấm",
+        "SL: 4 chi tiết/ 1 khung",
+        "2/8/2022 1:13 PM",
+        "HDCV:   Cắt laser (tổ Phôi) → Lã (tổ Bản Lề)",
+        "-Mã nguyên liệu: 3.1.00025  Sắt tấm 3x1000x2000mm",
+        "Tỉ Lệ:  1/1",
+        "01",
+        "Thêm lỗ Ø4 ; Thay đổi kích thước: 524 →514mm , 524 →534mm",
+        "02/08/2022",
+        "Trần V Công",
+        "01",
+        "01",
+        "01"
+      ],
+      "bbox": [
+        -86437.11700717034,
+        54397.10287238588,
+        -82879.71700717039,
+        56939.50287238586
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00507.002"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00507.008"
+    },
+    {
+      "id": "40402C",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Chân chấn côn (Ct1 · 9.1.00911 · Tờ 04/05)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT1",
+        "Người lập:",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "01",
+        "Sắt ",
+        "29/03/2021",
+        "Kiểm tra :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "YCKT 2 :",
+        "Nội dung chỉnh sửa",
+        "Duyệt :",
+        "Mục Đích Sử Dụng :",
+        "Vật liệu :",
+        "Số lượng :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 04/05",
+        "9.1.00911",
+        "Mã TP :",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "Tên sản phẩm :",
+        "Người sửa",
+        "Ngày sửa",
+        "Mã BTP :",
+        "4",
+        "Bản vẽ Tổ Hàn",
+        "V.Q.Cường",
+        "8.1.00501.009",
+        "Chân chấn côn - sắt tấm 2x15x25x463mm (Hàn gò)",
+        "\nHDCV : Hàn gò (tổ Hàn) → Nhám (tổ Nhám Trụ)"
+      ],
+      "bbox": [
+        -116223.1135312981,
+        54453.20287238587,
+        -115460.8135312981,
+        54998.00287238586
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00501.009"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00501.003"
+    },
+    {
+      "id": "40402D",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Chân chấn côn (Ct1 · 9.1.00911 · Tờ 05/05)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT1",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ :05/05",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "4",
+        "Bản Vẽ Tổ Nhám Trụ",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00501.003",
+        "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+        "\nHDCV : Nhám (tổ Nhám Trụ) → Hàn gò (tổ Hàn) "
+      ],
+      "bbox": [
+        -115345.8066766739,
+        54453.20287238587,
+        -114583.5066766739,
+        54998.00287238586
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00501.003"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00501.003"
+    },
+    {
+      "id": "404030",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Chân khung (Cụm 1 · 9.1.00911 · Tờ 01/03)",
+      "texts": [
+        "Vật liệu :",
+        "Lần",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 01/03",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "4",
+        "Chân khung - Sắt 36x31x468mm (Hàn gò)",
+        "Bản vẽ Tổ Hàn",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00496.009",
+        "3",
+        "STT",
+        "Mã Hàng",
+        "Vật Tư",
+        "SL",
+        "Vật Liệu",
+        "1",
+        "2",
+        "3",
+        "4",
+        "8.1.00501.003",
+        "8.1.00502.001",
+        "8.1.00505.001",
+        "8.1.00506.002",
+        "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+        " Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+        " Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+        "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+        "4",
+        "16",
+        "16",
+        "4",
+        "Sắt ",
+        "Sắt ",
+        "Sắt ",
+        "Sắt ",
+        "2",
+        "1",
+        "4",
+        "\nHDCV: Hàn gò (tổ Hàn) → Phay (tổ Tiện Phay)",
+        "YCKT1:  Cụm 1",
+        "01",
+        "Thay đổi kích thước: 8 → 10mm",
+        "Trần V Công",
+        "13/09/2022",
+        "01",
+        "01",
+        "13/9/2022 3:27 PM"
+      ],
+      "bbox": [
+        -105221.0081394838,
+        54397.10287238588,
+        -103696.4081394838,
+        55486.70287238588
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00496.009",
+        "8.1.00501.003",
+        "8.1.00502.001",
+        "8.1.00505.001",
+        "8.1.00506.002"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00496.003, 8.1.00501.003, 8.1.00502.001, 8.1.00505.001, 8.1.00506.002"
+    },
+    {
+      "id": "404031",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Chân khung (Cụm 1 · 9.1.00911 · Tờ 02/03)",
+      "texts": [
+        "Lần",
+        "YCKT1:  Cụm 1",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 02/03",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "4",
+        "Chân khung - Sắt 36x31x468mm (Phay)",
+        "Bản vẽ Tổ Tiện Phay",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00496.004",
+        "\nHDCV: Phay (tổ Tiện Phay) → Nhám (tổ Nhám Tay)",
+        "Phay bo góc R6 cả 4 mặt trên dưới tại 2 đoạn hàn chỉ. Phay R6 mặt trên đoạn hàn bít đầu.",
+        "01",
+        "Thêm bản vẽ Phay",
+        "Trần V Công",
+        "14/07/2022",
+        "02",
+        "02",
+        "02",
+        "Thay đổi kích thước: 8 → 10mm",
+        "Trần V Công",
+        "13/09/2022",
+        "13/9/2022 3:27 PM"
+      ],
+      "bbox": [
+        -103506.7701303789,
+        54397.10287238588,
+        -101982.1701303788,
+        55486.70287238588
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00496.004"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00496.003"
+    },
+    {
+      "id": "404032",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Chân khung (Cụm 1 · 9.1.00911 · Tờ 03/03)",
+      "texts": [
+        "Lần",
+        "YCKT1:  Cụm 1",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 03/03",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "4",
+        "Chân khung - Sắt 36x31x468mm (Nhám)",
+        "Bản Vẽ Tổ Nhám Tay",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00496.003",
+        "\nHDCV: Nhám (tổ Nhám Tay) → Hàn gò (tổ Hàn)",
+        "Nhám sạch mối hàn, bo góc R6 cả 4 mặt trên dưới tại 2 đoạn đã phay. Nhám bo R6 mặt trên tấm bít đầu.",
+        "01",
+        "Đổi quy trình:  Nhám Trụ → Nhám Tay",
+        "Trần V Công",
+        "14/07/2022",
+        "02",
+        "02",
+        "02",
+        "Thay đổi kích thước: 8 → 10mm",
+        "Trần V Công",
+        "13/09/2022",
+        "13/9/2022 3:27 PM"
+      ],
+      "bbox": [
+        -101692.6241249628,
+        54397.10287238588,
+        -100168.0241249628,
+        55486.70287238588
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00496.003"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00496.003"
+    },
+    {
+      "id": "404034",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "La dài (Ct5 · 9.1.00911 · Tờ 02/02)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT5",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 02/02",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "1",
+        "Bản Vẽ Tổ Bản Lề",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "La dài - sắt tấm 3x25x988mm (Lã)",
+        "8.1.00498.008",
+        "\nHDCV: Lã (tổ Bản Lề) → Hàn gò (tổ Hàn)",
+        "\nLỗ lã thử với vít 4 đầu 8 thấp hơn 0.3 dến 0.5mm so với bề mặt."
+      ],
+      "bbox": [
+        -95308.9593643942,
+        54377.3028723859,
+        -93784.35936439419,
+        55466.90287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00498.008"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00498.008"
+    },
+    {
+      "id": "404035",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Vòng La (Ct7 · 9.1.00911 · Tờ 02/02)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT7",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 02/02",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "4",
+        "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+        "Bản Vẽ Tổ Bản Lề",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00507.008",
+        "01",
+        "Sửa lại kích thước cắt laser",
+        "Trần V Công",
+        "27/10/2021",
+        "\nHDCV: Lã (tổ Bản Lề) → Hàn gò (tổ Hàn)",
+        "\nLỗ lã thử với vít 4 đầu 8 thấp hơn 0.3 dến 0.5mm so với bề mặt.",
+        "\nLưu ý: Các vòng la phải lã lỗ trên cùng 1 mặt.",
+        "02",
+        "Thêm lỗ Ø4 ; Thay đổi kích thước: 524 →514mm , 524 →534mm",
+        "Trần V Công",
+        "02/08/2022",
+        "02",
+        "02",
+        "02",
+        "02"
+      ],
+      "bbox": [
+        -82177.5389627718,
+        54377.3028723859,
+        -80652.93896277178,
+        55466.90287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00507.008"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00507.008"
+    },
+    {
+      "id": "404036",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Giằng dài (Ct8 · 9.1.00911 · Tờ 01/01)",
+      "texts": [
+        "29/03/2021",
+        "Tên sản phẩm :",
+        "YCKT1:  CT8",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "01",
+        "V.Q.Cường",
+        "Bản vẽ Tổ Phôi",
+        "Lần",
+        "Mã BTP :",
+        "Mục Đích Sử Dụng :",
+        "Kiểm tra :",
+        "Số lượng :",
+        "YCKT 2 :",
+        "Tỷ lệ : 1/1",
+        "Số tờ : 01/01",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+        "9.1.00911",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        "Người lập:",
+        "Duyệt :",
+        "Vật liệu :",
+        "Ngày vẽ :",
+        "Mã TP :",
+        "Nội dung chỉnh sửa",
+        "1",
+        "8.1.00500.001",
+        "\nHDCV: Cắt (tổ Phôi) → Hàn gò (tổ Hàn)",
+        "Mã nguyên liệu: 3.1.00599\t  Sắt vuông đặc 12x12x6000mm"
+      ],
+      "bbox": [
+        -72463.07233738832,
+        54357.50287238589,
+        -70938.4723373883,
+        55447.10287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00500.001"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00500.001"
+    },
+    {
+      "id": "404037",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Giằng ngắn (Ct9 · 9.1.00911 · Tờ 01/01)",
+      "texts": [
+        "01",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "Số tờ : 01/01",
+        "Số lượng :",
+        "29/03/2021",
+        "Ngày vẽ :",
+        "Người sửa",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Sắt ",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        "Mã BTP :",
+        "9.1.00911",
+        "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+        "V.Q.Cường",
+        "Người lập:",
+        "Duyệt :",
+        "Kiểm tra :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Mã TP :",
+        "Vật liệu :",
+        "Nội dung chỉnh sửa",
+        "Bản vẽ Tổ Phôi",
+        "Lần",
+        "YCKT1:  CT9",
+        "Tỷ lệ : 1/1",
+        "Tên sản phẩm :",
+        "Ngày sửa",
+        "2",
+        "8.1.00503.001",
+        "\nHDCV: Cắt (tổ Phôi) → Hàn gò (tổ Hàn)",
+        "Mã nguyên liệu: 3.1.00599\t  Sắt vuông đặc 12x12x6000mm"
+      ],
+      "bbox": [
+        -70731.649311938,
+        54357.50287238589,
+        -69207.04931193798,
+        55447.10287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00503.001"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00503.001"
+    },
+    {
+      "id": "404038",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Vòng nhôm đùn (Ct10 · 9.1.00911 · Tờ 01/05)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT10",
+        "Nhôm",
+        "Duyệt :",
+        "Tỷ lệ : 1/1",
+        "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Uốn)",
+        "01",
+        "9.1.00911",
+        "Kiểm tra :",
+        "Mục Đích Sử Dụng :",
+        "Vật liệu :",
+        "Số tờ : 01/05",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Người sửa",
+        "V.Q.Cường",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "Người lập:",
+        "YCKT 2 :",
+        "Số lượng :",
+        "Ngày vẽ :",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Ngày sửa",
+        "1",
+        "Bản Vẽ Tổ Gia Công",
+        "Mã BTP :",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "Tỉ lệ scale 4:1",
+        "8.4.00599.039",
+        "\nHDCV: Uốn (tổ Gia Công) → Cắt (tổ Phôi)",
+        "Mã nguyên liệu: 3.4.00009\t  Nhôm định hình L 3x40x10mm \ndài 4000mm (theo bản vẽ) (HW-09042)"
+      ],
+      "bbox": [
+        -68871.49489592251,
+        54357.50287238589,
+        -67346.8948959225,
+        55447.10287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "id": "40403A",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Vòng nhôm đùn (Ct10 · 9.1.00911 · Tờ 03/05)",
+      "texts": [
+        "YCKT1:  CT10",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "Lần",
+        "Người lập:",
+        "Số tờ: 03/05",
+        "YCKT 2 :",
+        "Tên sản phẩm :",
+        "Duyệt :",
+        "Mục Đích Sử Dụng :",
+        "29/03/2021",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "Nội dung chỉnh sửa",
+        "Bản vẽ Tổ Hàn ",
+        "Kiểm tra :",
+        "Mã BTP :",
+        "Tỷ lệ : 1/1",
+        "Ngày sửa",
+        "Nhôm",
+        "1",
+        "V.Q.Cường",
+        "01",
+        "Số lượng :",
+        "Vật liệu :",
+        "Ngày vẽ :",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Người sửa",
+        "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Hàn gò)",
+        "9.1.00911",
+        "8.4.00599.009",
+        "Hàn theo rập của khách hàng",
+        "\nHDCV: Hàn gò (tổ Hàn) → Khoan (tổ Bản Lề)"
+      ],
+      "bbox": [
+        -65476.09615610004,
+        54357.50287238589,
+        -63951.49615610002,
+        55447.10287238589
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "id": "40403C",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 02/02)",
+      "texts": [
+        "Lần",
+        "YCKT1:  Cụm 2",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "29/03/2021",
+        "01",
+        "Người lập:",
+        "Kiểm tra :",
+        "Duyệt :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Ngày vẽ :",
+        "Số tờ : 02/02",
+        "Mã TP :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "Người sửa",
+        "Ngày sửa",
+        "Sắt ",
+        "1",
+        "Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)",
+        "Bản Vẽ Tổ Nhám Tay",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.00497.003",
+        "Nhám sạch các mối hàn ",
+        "HDCV : Nhám (tổ Nhám Tay) → Hàn gò (tổ Hàn)"
+      ],
+      "bbox": [
+        -76336.85466883499,
+        54337.7028723859,
+        -73287.65466883499,
+        56516.90287238591
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.00497.003"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00497.003"
+    },
+    {
+      "id": "40403D",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Vòng nhôm đùn (Ct10 · 9.1.00911 · Tờ 04/05)",
+      "texts": [
+        "YCKT1:  CT10",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "Lần",
+        "01",
+        "Tỷ lệ : 1/1",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        "Vật liệu :",
+        "Ngày vẽ :",
+        "Mã TP :",
+        "Nội dung chỉnh sửa",
+        "Người lập:",
+        "Kiểm tra :",
+        "YCKT 2 :",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "9.1.00911",
+        "Người sửa",
+        "Nhôm",
+        "1",
+        "Bản Vẽ Tổ Bản Lề ",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "29/03/2021",
+        "Duyệt :",
+        "Số tờ : 04/05",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Tên sản phẩm :",
+        "Ngày sửa",
+        "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Khoan)",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "Tỉ lệ scale 4:1",
+        "8.4.00599.006",
+        "HDCV : Khoan (tổ Bản Lề) → Bùi nhùi (tổ Nhám Trụ)",
+        "Khoan 12 lỗ Ø2"
+      ],
+      "bbox": [
+        -62929.21887066793,
+        54337.7028723859,
+        -59880.01887066793,
+        56516.90287238591
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "id": "40403E",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Vòng nhôm đùn (Ct10 · 9.1.00911 · Tờ 05/05)",
+      "texts": [
+        "Lần",
+        "YCKT1:  CT10",
+        " - Dung sai các kích thước khác :  ±0.5 mm",
+        "Người lập:",
+        "Kiểm tra :",
+        "Nhôm",
+        "Số lượng :",
+        "01",
+        "Ngày vẽ :",
+        "YCKT 2 :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Vật liệu :",
+        "Người sửa",
+        "Số tờ : 05/05",
+        "Mã TP :",
+        "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+        "Tên sản phẩm :",
+        "Nội dung chỉnh sửa",
+        "9.1.00911",
+        "V.Q.Cường",
+        "Tỉ lệ scale 4:1",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        "29/03/2021",
+        "Duyệt :",
+        "Tỷ lệ : 1/1",
+        "Mục Đích Sử Dụng :",
+        "Ngày sửa",
+        "1",
+        "Bản Vẽ Tổ Nhám Trụ",
+        "Mã BTP :",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.4.00599.010",
+        "Nhám sạch mối hàn, nhám sạch bavia lỗ khoan. Bùi nhùi các bề mặt ngoài, mặt trong chỉ cần nhám sạch.",
+        "Bùi nhùi các mặt ngoài",
+        "HDCV : Bùi nhùi (tổ Nhám Trụ) → Đóng gói chuyển Kho",
+        "Lưu ý: Không bị lẹm, không cụp đầu."
+      ],
+      "bbox": [
+        -59574.32315016982,
+        54337.7028723859,
+        -56525.12315016982,
+        56516.90287238591
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911"
+      ],
+      "scope_reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "id": "40403F",
+      "kind": "sheet",
+      "layout": "Model",
+      "name": "Khung sắt D1038 x 983mm (Cụm 3 · 9.1.00911 · Tờ 01/02)",
+      "texts": [
+        "Lần",
+        " - Dung sai độ dày vật liệu : ±0.2 mm",
+        "Tên sản phẩm :",
+        "Sắt ",
+        "01",
+        "Mục Đích Sử Dụng :",
+        "Số lượng :",
+        "Ngày vẽ :",
+        "Kiểm tra :",
+        "YCKT 2 :",
+        "DNTN SX-TM-DV QUỐC TRƯỞNG",
+        "Người sửa",
+        "Ngày sửa",
+        "1",
+        "Số tờ : 01/02",
+        "Nội dung chỉnh sửa",
+        "Khung sắt D1038 x 983mm (Hàn gò nhám) ",
+        "Bảng Kê Tổ Hàn",
+        "V.Q.Cường",
+        "Mã BTP :",
+        "9.1.00911",
+        "YCKT1:  Cụm 3",
+        " - Dung sai các kích thước khác :  ±1 mm",
+        "29/03/2021",
+        "Người lập:",
+        "Duyệt :",
+        "Vật liệu :",
+        "Tỷ lệ : 1/1",
+        "Mã TP :",
+        "F.03.01/PKT.Rev1(10/08/2020)",
+        "8.1.03486.047",
+        "C2",
+        "C1",
+        "8",
+        "9",
+        "HDCV : Hàn gò nhám (tổ Hàn) → STĐ đen (tổ Gia Công)",
+        "Hàn xong nhám sạch mối hàn, nhám sạch bavia, giảm bén, gò nắn phẳng.",
+        "01",
+        "Trần V Công",
+        "02/08/2022",
+        "Chuyển công đoạn: Hàn gò → Hàn gò nhám"
+      ],
+      "bbox": [
+        -55797.39142974336,
+        54347.60287238591,
+        -53510.49142974336,
+        55982.0028723859
+      ],
+      "read_status": "needs_confirmation",
+      "warning": "Khung được nhận diện bằng hình chữ nhật và text khung tên; cần đối chiếu preview.",
+      "category": "drawing",
+      "source_codes": [
+        "9.1.00911",
+        "8.1.03486.047"
+      ],
+      "scope_reason": "Cùng cây cụm từ bảng kê/STT; kiểm tra các chi tiết liên quan trước khi tính mặt lắp và mốc giữ."
+    }
+  ],
+  "root_target_ids": [
+    "3E4E7A",
+    "404033",
+    "404029",
+    "40403B"
+  ],
+  "root_bom_refs": [
+    "3ECF99",
+    "3FA919"
+  ],
+  "scope_links": [
+    {
+      "sheet_id": "3DE370",
+      "part_codes": [
+        "8.1.00506.002"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00506.002"
+    },
+    {
+      "sheet_id": "3E1BB7",
+      "part_codes": [
+        "8.1.00498.008"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00498.008"
+    },
+    {
+      "sheet_id": "3E7F12",
+      "part_codes": [
+        "8.1.00507.008"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00507.008"
+    },
+    {
+      "sheet_id": "40402C",
+      "part_codes": [
+        "8.1.00501.003"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00501.003"
+    },
+    {
+      "sheet_id": "40402D",
+      "part_codes": [
+        "8.1.00501.003"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00501.003"
+    },
+    {
+      "sheet_id": "404030",
+      "part_codes": [
+        "8.1.00496.003",
+        "8.1.00501.003",
+        "8.1.00502.001",
+        "8.1.00505.001",
+        "8.1.00506.002"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00496.003, 8.1.00501.003, 8.1.00502.001, 8.1.00505.001, 8.1.00506.002"
+    },
+    {
+      "sheet_id": "404031",
+      "part_codes": [
+        "8.1.00496.003"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00496.003"
+    },
+    {
+      "sheet_id": "404032",
+      "part_codes": [
+        "8.1.00496.003"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00496.003"
+    },
+    {
+      "sheet_id": "404034",
+      "part_codes": [
+        "8.1.00498.008"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00498.008"
+    },
+    {
+      "sheet_id": "404035",
+      "part_codes": [
+        "8.1.00507.008"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00507.008"
+    },
+    {
+      "sheet_id": "404036",
+      "part_codes": [
+        "8.1.00500.001"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00500.001"
+    },
+    {
+      "sheet_id": "404037",
+      "part_codes": [
+        "8.1.00503.001"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00503.001"
+    },
+    {
+      "sheet_id": "404038",
+      "part_codes": [
+        "8.4.00599.010"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "sheet_id": "40403A",
+      "part_codes": [
+        "8.4.00599.010"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "sheet_id": "40403C",
+      "part_codes": [
+        "8.1.00497.003"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.1.00497.003"
+    },
+    {
+      "sheet_id": "40403D",
+      "part_codes": [
+        "8.4.00599.010"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "sheet_id": "40403E",
+      "part_codes": [
+        "8.4.00599.010"
+      ],
+      "reason": "Liên kết mã chi tiết/chuỗi ghi chú lắp ghép: 8.4.00599.010"
+    },
+    {
+      "sheet_id": "40403F",
+      "part_codes": [
+        "8.1.00496.003",
+        "8.1.00497.003",
+        "8.1.00500.001",
+        "8.1.00503.001"
+      ],
+      "reason": "Cùng cây cụm từ bảng kê/STT; kiểm tra các chi tiết liên quan trước khi tính mặt lắp và mốc giữ."
+    }
+  ],
+  "review_only_ids": [
+    "3DE370",
+    "3E1BB7",
+    "3E7F12",
+    "40402C",
+    "40402D",
+    "404030",
+    "404031",
+    "404032",
+    "404034",
+    "404035",
+    "404036",
+    "404037",
+    "404038",
+    "40403A",
+    "40403D",
+    "40403E"
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "planner": "checked_assembly_resize",
+  "impact_graph": {
+    "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+    "document_id": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "detection_hash": "eb5321736c484aa8707aae5f04b12828687712620d1de09e97049319a98ce657d75733e325ad35f16231f6a886d209d3c16f7687085e85a66cdbd30e7e3319a0",
+    "version": 34,
+    "seed_codes": [
+      "8.1.00499.008"
+    ],
+    "nodes": [
+      {
+        "id": "8.1.00496.003",
+        "code": "8.1.00496.003",
+        "bom_occurrences": [
+          {
+            "table_ref": "3F4F27",
+            "part_number": "C1",
+            "description": "Chân khung - Sắt 36x31x468mm (Nhám)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 14,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Chân khung - Sắt 36x31x468mm (Nhám)\\P}",
+              "mirror_ref": "3F4F27/3F4F32"
+            },
+            "sheet_ids": [
+              "40403F"
+            ],
+            "evidence_refs": [
+              "3F4F27/3F4F30",
+              "3F4F27/3F4F31",
+              "3F4F27/3F4F32",
+              "3F4F27/3F4F33",
+              "3F4F27/3F4F34"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "404030",
+          "404031",
+          "404032"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "404030",
+            "source_part_code": "8.1.00496.009",
+            "bom_part_code": "8.1.00496.003",
+            "source_description": "Chân khung - Sắt 36x31x468mm (Hàn gò)",
+            "bom_description": "Chân khung - Sắt 36x31x468mm (Nhám)",
+            "route_notes": [
+              "HDCV: Hàn gò (tổ Hàn) → Phay (tổ Tiện Phay)"
+            ],
+            "evidence_table_ref": "3F4F27",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          },
+          {
+            "sheet_id": "404031",
+            "source_part_code": "8.1.00496.004",
+            "bom_part_code": "8.1.00496.003",
+            "source_description": "Chân khung - Sắt 36x31x468mm (Phay)",
+            "bom_description": "Chân khung - Sắt 36x31x468mm (Nhám)",
+            "route_notes": [
+              "HDCV: Phay (tổ Tiện Phay) → Nhám (tổ Nhám Tay)"
+            ],
+            "evidence_table_ref": "3F4F27",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00497.003",
+        "code": "8.1.00497.003",
+        "bom_occurrences": [
+          {
+            "table_ref": "3F4F27",
+            "part_number": "C2",
+            "description": "Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 20,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+              "mirror_ref": "3F4F27/3F4F37"
+            },
+            "sheet_ids": [
+              "40403F"
+            ],
+            "evidence_refs": [
+              "3F4F27/3F4F35",
+              "3F4F27/3F4F36",
+              "3F4F27/3F4F37",
+              "3F4F27/3F4F38",
+              "3F4F27/3F4F39"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "40403B",
+          "40403C"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "40403B",
+            "source_part_code": "8.1.00497.009",
+            "bom_part_code": "8.1.00497.003",
+            "source_description": "Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)",
+            "bom_description": "Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)",
+            "route_notes": [
+              "HDCV : Hàn gò (tổ Hàn) → Nhám (tổ Nhám Tay)"
+            ],
+            "evidence_table_ref": "3F4F27",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00498.008",
+        "code": "8.1.00498.008",
+        "bom_occurrences": [
+          {
+            "table_ref": "3ECF99",
+            "part_number": "5",
+            "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 14,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;La dài - sắt tấm 3x25x988mm (Lã)\\P}",
+              "mirror_ref": "3ECF99/3ECFA4"
+            },
+            "sheet_ids": [
+              "40403B"
+            ],
+            "evidence_refs": [
+              "3ECF99/3ECFA2",
+              "3ECF99/3ECFA3",
+              "3ECF99/3ECFA4",
+              "3ECF99/3ECFA5",
+              "3ECF99/3ECFA6"
+            ]
+          },
+          {
+            "table_ref": "3FA919",
+            "part_number": "5",
+            "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 38,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;La dài - sắt tấm 3x25x988mm (Lã)\\P}",
+              "mirror_ref": "3FA919/3FBD05"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FBD03",
+              "3FA919/3FBD04",
+              "3FA919/3FBD05",
+              "3FA919/3FBD06"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "3E1BB7",
+          "404034"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "3E1BB7",
+            "source_part_code": "8.1.00498.002",
+            "bom_part_code": "8.1.00498.008",
+            "source_description": "La dài - sắt tấm 3x25x988mm (Cắt laser)",
+            "bom_description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "route_notes": [
+              "HDCV:   Cắt laser (tổ Phôi) → Lã (tổ Bản Lề)"
+            ],
+            "evidence_table_ref": "3FA919",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00499.008",
+        "code": "8.1.00499.008",
+        "bom_occurrences": [
+          {
+            "table_ref": "3ECF99",
+            "part_number": "6",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 20,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+              "mirror_ref": "3ECF99/3ECFA9"
+            },
+            "sheet_ids": [
+              "40403B"
+            ],
+            "evidence_refs": [
+              "3ECF99/3ECFA7",
+              "3ECF99/3ECFA8",
+              "3ECF99/3ECFA9",
+              "3ECF99/3ECFAA",
+              "3ECF99/3ECFAB"
+            ]
+          },
+          {
+            "table_ref": "3FA919",
+            "part_number": "6",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 44,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+              "mirror_ref": "3FA919/3FBD0A"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FBD08",
+              "3FA919/3FBD09",
+              "3FA919/3FBD0A",
+              "3FA919/3FBD0B"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "3E4E7A",
+          "404033"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "3E4E7A",
+            "source_part_code": "8.1.00499.002",
+            "bom_part_code": "8.1.00499.008",
+            "source_description": "La ngắn - sắt tấm 3x25x481.5mm (Cắt laser)",
+            "bom_description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "route_notes": [
+              "HDCV:   Cắt laser (tổ Phôi) → Lã (tổ Bản Lề)"
+            ],
+            "evidence_table_ref": "3FA919",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00500.001",
+        "code": "8.1.00500.001",
+        "bom_occurrences": [
+          {
+            "table_ref": "3F4F27",
+            "part_number": "8",
+            "description": "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 26,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)\\P}",
+              "mirror_ref": "3F4F27/3F4F3C"
+            },
+            "sheet_ids": [
+              "40403F"
+            ],
+            "evidence_refs": [
+              "3F4F27/3F4F3A",
+              "3F4F27/3F4F3B",
+              "3F4F27/3F4F3C",
+              "3F4F27/3F4F3D",
+              "3F4F27/3F4F3E"
+            ]
+          },
+          {
+            "table_ref": "3FA919",
+            "part_number": "8",
+            "description": "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 56,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)}",
+              "mirror_ref": "3FA919/3FC7B1"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FC7AF",
+              "3FA919/3FC7B0",
+              "3FA919/3FC7B1",
+              "3FA919/3FC7B2"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "404036"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00501.003",
+        "code": "8.1.00501.003",
+        "bom_occurrences": [
+          {
+            "table_ref": "3FA919",
+            "part_number": "1",
+            "description": "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 14,
+              "raw_text": "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)^J",
+              "mirror_ref": "3FA919/3FA924"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FA923",
+              "3FA919/3FA924",
+              "3FA919/3FA925"
+            ]
+          },
+          {
+            "table_ref": "graphic-table:e542620b860cf0b45bee3df6",
+            "part_number": "1",
+            "description": "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+            "material": "Sắt",
+            "source_kind": "graphic_grid",
+            "description_cell": {
+              "index": 2,
+              "storage": "text",
+              "raw_text": "{\\W1;Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)}",
+              "mirror_ref": "3D4C48"
+            },
+            "sheet_ids": [
+              "404030"
+            ],
+            "evidence_refs": [
+              "3D4C3E",
+              "3D4C42",
+              "3D4C48",
+              "3D4C50",
+              "3D4C54"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "40402C",
+          "40402D"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "40402C",
+            "source_part_code": "8.1.00501.009",
+            "bom_part_code": "8.1.00501.003",
+            "source_description": "Chân chấn côn - sắt tấm 2x15x25x463mm (Hàn gò)",
+            "bom_description": "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+            "route_notes": [
+              "HDCV : Hàn gò (tổ Hàn) → Nhám (tổ Nhám Trụ)"
+            ],
+            "evidence_table_ref": "graphic-table:e542620b860cf0b45bee3df6",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00502.001",
+        "code": "8.1.00502.001",
+        "bom_occurrences": [
+          {
+            "table_ref": "3FA919",
+            "part_number": "2",
+            "description": "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 20,
+              "raw_text": "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+              "mirror_ref": null
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FA928",
+              "3FA919/3FA92A",
+              "3FA919/3FA92B"
+            ]
+          },
+          {
+            "table_ref": "graphic-table:e542620b860cf0b45bee3df6",
+            "part_number": "2",
+            "description": "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "graphic_grid",
+            "description_cell": {
+              "index": 7,
+              "storage": "text",
+              "raw_text": "{\\W1; Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)}",
+              "mirror_ref": "3D4C4A"
+            },
+            "sheet_ids": [
+              "404030"
+            ],
+            "evidence_refs": [
+              "3D4C3F",
+              "3D4C43",
+              "3D4C4A",
+              "3D4C51",
+              "3D4C56"
+            ]
+          }
+        ],
+        "detail_sheets": [],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00503.001",
+        "code": "8.1.00503.001",
+        "bom_occurrences": [
+          {
+            "table_ref": "3F4F27",
+            "part_number": "9",
+            "description": "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 32,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)\\P}",
+              "mirror_ref": "3F4F27/3F6201"
+            },
+            "sheet_ids": [
+              "40403F"
+            ],
+            "evidence_refs": [
+              "3F4F27/3F61FF",
+              "3F4F27/3F6200",
+              "3F4F27/3F6201",
+              "3F4F27/3FBD53",
+              "3F4F27/3FBD54"
+            ]
+          },
+          {
+            "table_ref": "3FA919",
+            "part_number": "9",
+            "description": "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 62,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)\\P}",
+              "mirror_ref": "3FA919/3FC7B6"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FC7B4",
+              "3FA919/3FC7B5",
+              "3FA919/3FC7B6",
+              "3FA919/3FC7B7"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "404037"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00505.001",
+        "code": "8.1.00505.001",
+        "bom_occurrences": [
+          {
+            "table_ref": "3FA919",
+            "part_number": "3",
+            "description": "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 26,
+              "raw_text": "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+              "mirror_ref": null
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FA92C",
+              "3FA919/3FA92D",
+              "3FA919/3FA92F",
+              "3FA919/3FA930"
+            ]
+          },
+          {
+            "table_ref": "graphic-table:e542620b860cf0b45bee3df6",
+            "part_number": "3",
+            "description": "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+            "material": "Sắt",
+            "source_kind": "graphic_grid",
+            "description_cell": {
+              "index": 12,
+              "storage": "text",
+              "raw_text": "{\\W1; Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)}",
+              "mirror_ref": "3D4C4C"
+            },
+            "sheet_ids": [
+              "404030"
+            ],
+            "evidence_refs": [
+              "3D4C40",
+              "3D4C44",
+              "3D4C4C",
+              "3D4C52",
+              "3D4C58"
+            ]
+          }
+        ],
+        "detail_sheets": [],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00506.002",
+        "code": "8.1.00506.002",
+        "bom_occurrences": [
+          {
+            "table_ref": "3FA919",
+            "part_number": "4",
+            "description": "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 32,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)}",
+              "mirror_ref": "3FA919/3FBD00"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FBCFF",
+              "3FA919/3FBD00",
+              "3FA919/3FBD01"
+            ]
+          },
+          {
+            "table_ref": "graphic-table:e542620b860cf0b45bee3df6",
+            "part_number": "4",
+            "description": "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+            "material": "Sắt",
+            "source_kind": "graphic_grid",
+            "description_cell": {
+              "index": 17,
+              "storage": "text",
+              "raw_text": "{\\W1;Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)}",
+              "mirror_ref": "3D4C4E"
+            },
+            "sheet_ids": [
+              "404030"
+            ],
+            "evidence_refs": [
+              "3D4C41",
+              "3D4C45",
+              "3D4C4E",
+              "3D4C53",
+              "3D4C5A"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "3DE370"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "native_instances": []
+      },
+      {
+        "id": "8.1.00507.008",
+        "code": "8.1.00507.008",
+        "bom_occurrences": [
+          {
+            "table_ref": "3ECF99",
+            "part_number": "7",
+            "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 26,
+              "raw_text": "\\A1;{\\fArial|b0|i0|c0|p34;\\C256;Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)\\P}",
+              "mirror_ref": "3ECF99/3ECFAE"
+            },
+            "sheet_ids": [
+              "40403B"
+            ],
+            "evidence_refs": [
+              "3ECF99/3ECFAC",
+              "3ECF99/3ECFAD",
+              "3ECF99/3ECFAE",
+              "3ECF99/3ECFAF",
+              "3ECF99/3ECFB0"
+            ]
+          },
+          {
+            "table_ref": "3FA919",
+            "part_number": "7",
+            "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 50,
+              "raw_text": "\\A1;{\\fArial|b0|i0|c0|p34;\\C256;Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)}",
+              "mirror_ref": "3FA919/3FBD3C"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FBD0D",
+              "3FA919/3FBD3B",
+              "3FA919/3FBD3C",
+              "3FA919/3FBD3D"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "3E7F12",
+          "404035"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "3E7F12",
+            "source_part_code": "8.1.00507.002",
+            "bom_part_code": "8.1.00507.008",
+            "source_description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Cắt laser)",
+            "bom_description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "route_notes": [
+              "HDCV:   Cắt laser (tổ Phôi) → Lã (tổ Bản Lề)"
+            ],
+            "evidence_table_ref": "3FA919",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      },
+      {
+        "id": "8.4.00599.010",
+        "code": "8.4.00599.010",
+        "bom_occurrences": [
+          {
+            "table_ref": "3FA919",
+            "part_number": "10",
+            "description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+            "material": "Nhôm",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 68,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)\\P}",
+              "mirror_ref": "3FA919/3FC7BB"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FC7B9",
+              "3FA919/3FC7BA",
+              "3FA919/3FC7BB",
+              "3FA919/3FC7BC"
+            ]
+          }
+        ],
+        "detail_sheets": [
+          "404038",
+          "40403A",
+          "40403D",
+          "40403E"
+        ],
+        "geometry_ownership": "unverified",
+        "definition_conflict": false,
+        "manufacturing_stages": [
+          {
+            "sheet_id": "404038",
+            "source_part_code": "8.4.00599.039",
+            "bom_part_code": "8.4.00599.010",
+            "source_description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Uốn)",
+            "bom_description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+            "route_notes": [
+              "HDCV: Uốn (tổ Gia Công) → Cắt (tổ Phôi)"
+            ],
+            "evidence_table_ref": "3FA919",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          },
+          {
+            "sheet_id": "40403A",
+            "source_part_code": "8.4.00599.009",
+            "bom_part_code": "8.4.00599.010",
+            "source_description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Hàn gò)",
+            "bom_description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+            "route_notes": [
+              "HDCV: Hàn gò (tổ Hàn) → Khoan (tổ Bản Lề)"
+            ],
+            "evidence_table_ref": "3FA919",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          },
+          {
+            "sheet_id": "40403D",
+            "source_part_code": "8.4.00599.006",
+            "bom_part_code": "8.4.00599.010",
+            "source_description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Khoan)",
+            "bom_description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+            "route_notes": [
+              "HDCV : Khoan (tổ Bản Lề) → Bùi nhùi (tổ Nhám Trụ)"
+            ],
+            "evidence_table_ref": "3FA919",
+            "status": "source_specification_stage_link",
+            "geometry_rule": "unverified: stage views require their own measured geometry"
+          }
+        ],
+        "native_instances": []
+      }
+    ],
+    "assembly_structure": {
+      "version": 4,
+      "assemblies": [
+        {
+          "id": "assembly:3ECF99",
+          "table_ref": "3ECF99",
+          "layout": "Model",
+          "scope_ids": [
+            "40403B"
+          ],
+          "instance_ref": null,
+          "kind": "assembly_bom",
+          "owner_code": "8.1.00497.003",
+          "owner_candidates": [
+            "8.1.00497.003"
+          ],
+          "product_codes": [
+            "9.1.00911"
+          ],
+          "domain": "product",
+          "members": [
+            {
+              "part_number": "5",
+              "part_code": "8.1.00498.008",
+              "quantity_text": "1",
+              "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "6",
+              "part_code": "8.1.00499.008",
+              "quantity_text": "2",
+              "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "7",
+              "part_code": "8.1.00507.008",
+              "quantity_text": "4",
+              "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+              "material": "Sắt"
+            }
+          ],
+          "number_index": {
+            "5": {
+              "part_codes": [
+                "8.1.00498.008"
+              ],
+              "status": "unique"
+            },
+            "6": {
+              "part_codes": [
+                "8.1.00499.008"
+              ],
+              "status": "unique"
+            },
+            "7": {
+              "part_codes": [
+                "8.1.00507.008"
+              ],
+              "status": "unique"
+            }
+          },
+          "duplicate_numbers": [],
+          "parent_ids": [
+            "assembly:3F4F27"
+          ],
+          "child_ids": [],
+          "covered_assembly_ids": [],
+          "equivalent_bom_ids": [],
+          "status": "bom_membership_only",
+          "executable": false,
+          "descendant_part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00507.008"
+          ],
+          "leaf_part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00507.008"
+          ]
+        },
+        {
+          "id": "assembly:3F4F27",
+          "table_ref": "3F4F27",
+          "layout": "Model",
+          "scope_ids": [
+            "40403F"
+          ],
+          "instance_ref": null,
+          "kind": "assembly_bom",
+          "owner_code": null,
+          "owner_candidates": [],
+          "product_codes": [
+            "9.1.00911"
+          ],
+          "domain": "product",
+          "members": [
+            {
+              "part_number": "C1",
+              "part_code": "8.1.00496.003",
+              "quantity_text": "4",
+              "description": "Chân khung - Sắt 36x31x468mm (Nhám)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "C2",
+              "part_code": "8.1.00497.003",
+              "quantity_text": "1",
+              "description": "Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "8",
+              "part_code": "8.1.00500.001",
+              "quantity_text": "1",
+              "description": "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "9",
+              "part_code": "8.1.00503.001",
+              "quantity_text": "2",
+              "description": "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+              "material": "Sắt"
+            }
+          ],
+          "number_index": {
+            "C1": {
+              "part_codes": [
+                "8.1.00496.003"
+              ],
+              "status": "unique"
+            },
+            "C2": {
+              "part_codes": [
+                "8.1.00497.003"
+              ],
+              "status": "unique"
+            },
+            "8": {
+              "part_codes": [
+                "8.1.00500.001"
+              ],
+              "status": "unique"
+            },
+            "9": {
+              "part_codes": [
+                "8.1.00503.001"
+              ],
+              "status": "unique"
+            }
+          },
+          "duplicate_numbers": [],
+          "parent_ids": [],
+          "child_ids": [
+            "assembly:3ECF99",
+            "assembly:graphic-table:e542620b860cf0b45bee3df6"
+          ],
+          "covered_assembly_ids": [
+            "assembly:3ECF99",
+            "assembly:graphic-table:e542620b860cf0b45bee3df6"
+          ],
+          "equivalent_bom_ids": [],
+          "status": "bom_membership_only",
+          "executable": false,
+          "descendant_part_codes": [
+            "8.1.00496.003",
+            "8.1.00497.003",
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00500.001",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00503.001",
+            "8.1.00505.001",
+            "8.1.00506.002",
+            "8.1.00507.008"
+          ],
+          "leaf_part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00500.001",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00503.001",
+            "8.1.00505.001",
+            "8.1.00506.002",
+            "8.1.00507.008"
+          ]
+        },
+        {
+          "id": "assembly:3FA919",
+          "table_ref": "3FA919",
+          "layout": "Model",
+          "scope_ids": [
+            "404029"
+          ],
+          "instance_ref": null,
+          "kind": "assembly_bom",
+          "owner_code": null,
+          "owner_candidates": [],
+          "product_codes": [
+            "9.1.00911"
+          ],
+          "domain": "product",
+          "members": [
+            {
+              "part_number": "1",
+              "part_code": "8.1.00501.003",
+              "quantity_text": "4",
+              "description": "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "2",
+              "part_code": "8.1.00502.001",
+              "quantity_text": "16",
+              "description": "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "3",
+              "part_code": "8.1.00505.001",
+              "quantity_text": "16",
+              "description": "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "4",
+              "part_code": "8.1.00506.002",
+              "quantity_text": "4",
+              "description": "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "5",
+              "part_code": "8.1.00498.008",
+              "quantity_text": "1",
+              "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "6",
+              "part_code": "8.1.00499.008",
+              "quantity_text": "2",
+              "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "7",
+              "part_code": "8.1.00507.008",
+              "quantity_text": "4",
+              "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "8",
+              "part_code": "8.1.00500.001",
+              "quantity_text": "1",
+              "description": "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "9",
+              "part_code": "8.1.00503.001",
+              "quantity_text": "2",
+              "description": "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+              "material": "Sắt"
+            },
+            {
+              "part_number": "10",
+              "part_code": "8.4.00599.010",
+              "quantity_text": "1",
+              "description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+              "material": "Nhôm"
+            }
+          ],
+          "number_index": {
+            "1": {
+              "part_codes": [
+                "8.1.00501.003"
+              ],
+              "status": "unique"
+            },
+            "2": {
+              "part_codes": [
+                "8.1.00502.001"
+              ],
+              "status": "unique"
+            },
+            "3": {
+              "part_codes": [
+                "8.1.00505.001"
+              ],
+              "status": "unique"
+            },
+            "4": {
+              "part_codes": [
+                "8.1.00506.002"
+              ],
+              "status": "unique"
+            },
+            "5": {
+              "part_codes": [
+                "8.1.00498.008"
+              ],
+              "status": "unique"
+            },
+            "6": {
+              "part_codes": [
+                "8.1.00499.008"
+              ],
+              "status": "unique"
+            },
+            "7": {
+              "part_codes": [
+                "8.1.00507.008"
+              ],
+              "status": "unique"
+            },
+            "8": {
+              "part_codes": [
+                "8.1.00500.001"
+              ],
+              "status": "unique"
+            },
+            "9": {
+              "part_codes": [
+                "8.1.00503.001"
+              ],
+              "status": "unique"
+            },
+            "10": {
+              "part_codes": [
+                "8.4.00599.010"
+              ],
+              "status": "unique"
+            }
+          },
+          "duplicate_numbers": [],
+          "parent_ids": [],
+          "child_ids": [],
+          "covered_assembly_ids": [
+            "assembly:3ECF99",
+            "assembly:3F4F27",
+            "assembly:graphic-table:e542620b860cf0b45bee3df6"
+          ],
+          "equivalent_bom_ids": [],
+          "status": "bom_membership_only",
+          "executable": false,
+          "descendant_part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00500.001",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00503.001",
+            "8.1.00505.001",
+            "8.1.00506.002",
+            "8.1.00507.008",
+            "8.4.00599.010"
+          ],
+          "leaf_part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00500.001",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00503.001",
+            "8.1.00505.001",
+            "8.1.00506.002",
+            "8.1.00507.008",
+            "8.4.00599.010"
+          ]
+        }
+      ],
+      "products": [
+        {
+          "product_code": "9.1.00911",
+          "domain": "product",
+          "assembly_ids": [
+            "assembly:3ECF99",
+            "assembly:3F4F27",
+            "assembly:3FA919",
+            "assembly:graphic-table:e542620b860cf0b45bee3df6"
+          ],
+          "leaf_part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00500.001",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00503.001",
+            "8.1.00505.001",
+            "8.1.00506.002",
+            "8.1.00507.008",
+            "8.4.00599.010"
+          ],
+          "main_drawing_candidates": [
+            "assembly:3FA919"
+          ],
+          "status": "main_candidate"
+        }
+      ],
+      "warnings": [],
+      "material_inputs": [],
+      "policy": "STT is local to table and placed scope. BOM membership/hierarchy locates review candidates; it does not prove contact, anchors, numeric constraints or official drawing approval."
+    },
+    "assembly_candidate_codes": [
+      "8.1.00496.003",
+      "8.1.00500.001",
+      "8.1.00501.003",
+      "8.1.00502.001",
+      "8.1.00503.001",
+      "8.1.00505.001",
+      "8.1.00506.002",
+      "8.4.00599.010"
+    ],
+    "edges": [
+      {
+        "id": "relation-5",
+        "source": "8.1.00498.008",
+        "target": "8.1.00497.003",
+        "kind": "assembly_bom",
+        "status": "source_note_rule_missing",
+        "executable": false,
+        "evidence": [
+          {
+            "sheet_id": "40403B",
+            "note": "Bảng kê 3ECF99: chi tiết 5 thuộc cụm 8.1.00497.003"
+          },
+          {
+            "sheet_id": "40403B",
+            "table_ref": "3ECF99",
+            "part_number": "5"
+          }
+        ],
+        "missing": [
+          "geometry ownership",
+          "contact/anchor mapping",
+          "numeric design rule"
+        ]
+      },
+      {
+        "id": "relation-6",
+        "source": "8.1.00499.008",
+        "target": "8.1.00497.003",
+        "kind": "assembly_bom",
+        "status": "source_note_rule_missing",
+        "executable": false,
+        "evidence": [
+          {
+            "sheet_id": "40403B",
+            "note": "Bảng kê 3ECF99: chi tiết 6 thuộc cụm 8.1.00497.003"
+          },
+          {
+            "sheet_id": "40403B",
+            "table_ref": "3ECF99",
+            "part_number": "6"
+          }
+        ],
+        "missing": [
+          "geometry ownership",
+          "contact/anchor mapping",
+          "numeric design rule"
+        ]
+      },
+      {
+        "id": "relation-7",
+        "source": "8.1.00507.008",
+        "target": "8.1.00497.003",
+        "kind": "assembly_bom",
+        "status": "source_note_rule_missing",
+        "executable": false,
+        "evidence": [
+          {
+            "sheet_id": "40403B",
+            "note": "Bảng kê 3ECF99: chi tiết 7 thuộc cụm 8.1.00497.003"
+          },
+          {
+            "sheet_id": "40403B",
+            "table_ref": "3ECF99",
+            "part_number": "7"
+          }
+        ],
+        "missing": [
+          "geometry ownership",
+          "contact/anchor mapping",
+          "numeric design rule"
+        ]
+      }
+    ],
+    "affected_codes": [
+      "8.1.00497.003",
+      "8.1.00498.008",
+      "8.1.00507.008"
+    ],
+    "impact_paths": {
+      "8.1.00507.008": [],
+      "8.1.00499.008": [],
+      "8.1.00498.008": [],
+      "8.1.00497.003": [
+        "8.1.00498.008"
+      ]
+    },
+    "process_groups": [
+      {
+        "id": "3ECF99:machining",
+        "stage_id": "machining",
+        "label": "Gia công",
+        "table_ref": "3ECF99",
+        "sheet_ids": [
+          "40403B"
+        ],
+        "members": [
+          {
+            "part_code": "8.1.00498.008",
+            "part_number": "5",
+            "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "process_text": "(Lã)",
+            "cell_index": 14,
+            "evidence_refs": [
+              "3ECF99",
+              "3ECF99/3ECFA4"
+            ]
+          },
+          {
+            "part_code": "8.1.00499.008",
+            "part_number": "6",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "process_text": "(Lã)",
+            "cell_index": 20,
+            "evidence_refs": [
+              "3ECF99",
+              "3ECF99/3ECFA9"
+            ]
+          },
+          {
+            "part_code": "8.1.00507.008",
+            "part_number": "7",
+            "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "process_text": "(Lã)",
+            "cell_index": 26,
+            "evidence_refs": [
+              "3ECF99",
+              "3ECF99/3ECFAE"
+            ]
+          }
+        ],
+        "assembly_references": []
+      },
+      {
+        "id": "3FA919:machining",
+        "stage_id": "machining",
+        "label": "Gia công",
+        "table_ref": "3FA919",
+        "sheet_ids": [
+          "404029"
+        ],
+        "members": [
+          {
+            "part_code": "8.1.00498.008",
+            "part_number": "5",
+            "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "process_text": "(Lã)",
+            "cell_index": 38,
+            "evidence_refs": [
+              "3FA919",
+              "3FA919/3FBD05"
+            ]
+          },
+          {
+            "part_code": "8.1.00499.008",
+            "part_number": "6",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "process_text": "(Lã)",
+            "cell_index": 44,
+            "evidence_refs": [
+              "3FA919",
+              "3FA919/3FBD0A"
+            ]
+          },
+          {
+            "part_code": "8.1.00507.008",
+            "part_number": "7",
+            "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "process_text": "(Lã)",
+            "cell_index": 50,
+            "evidence_refs": [
+              "3FA919",
+              "3FA919/3FBD3C"
+            ]
+          }
+        ],
+        "assembly_references": []
+      }
+    ],
+    "process_candidate_codes": [
+      "8.1.00498.008",
+      "8.1.00507.008"
+    ],
+    "packaging_groups": [],
+    "drawing_rows": {
+      "version": 3,
+      "groups": [],
+      "frame_groups": [
+        {
+          "id": "frame-4df50a83fd1800fb564e",
+          "label": "Khung sắt (Chi Tiết 2 · 9.1.00911 · Tờ 01/01)",
+          "kind": "drawing_frame",
+          "layout": "Model",
+          "label_ref": null,
+          "circle_ref": null,
+          "center": [
+            -125602.5432339,
+            55598.152872385894,
+            0
+          ],
+          "product_codes": [],
+          "sheet_ids": [
+            "404029"
+          ],
+          "evidence_refs": [
+            "3FA87A",
+            "3FA880",
+            "3FA8A6",
+            "3FA8A7",
+            "3FA8A9",
+            "3FA8AA",
+            "3FA8AC",
+            "3FA8AF",
+            "3FA8B0",
+            "3FA8B2",
+            "3FA8B5",
+            "3FA8B6",
+            "3FA8B8",
+            "3FA8B9",
+            "3FA8BC",
+            "3FA8BD",
+            "3FA904",
+            "3FA905",
+            "3FA907",
+            "3FA908",
+            "3FA90A",
+            "3FA90B"
+          ],
+          "frames": [
+            {
+              "sheet_id": "404029",
+              "name": "Khung sắt (Chi Tiết 2 · 9.1.00911 · Tờ 01/01)",
+              "bbox": [
+                -127317.7182339,
+                54372.35287238588,
+                -123887.3682339,
+                56823.9528723859
+              ],
+              "source_texts": [
+                "9.1.00911",
+                "Lần",
+                " - Dung sai độ dày vật liệu : ±0.2 mm",
+                " - Dung sai các kích thước khác :  ±0.5 mm",
+                "29/03/2021",
+                "Người lập:",
+                "01",
+                "Duyệt :",
+                "YCKT 2 :",
+                "Kiểm tra :",
+                "Số lượng :",
+                "Tỷ lệ : 1/1",
+                "Số tờ : 01/01",
+                "Mục Đích Sử Dụng :",
+                "Vật liệu :",
+                "Mã TP :",
+                "Ngày vẽ :",
+                "DNTN SX-TM-DV QUỐC TRƯỞNG",
+                "Tên sản phẩm :",
+                "Nội dung chỉnh sửa",
+                "Người sửa",
+                "Ngày sửa",
+                "Bảng Kê",
+                "1",
+                "Khung sắt + viền nhôm 471x1048mm & 40x1067mm (Surface Pb<90 ppm & Substrate Pb<600 ppm) - STĐ đen, viền nhôm đánh bùi nhùi ;HW-09-042L-PBL",
+                "V.Q.Cường",
+                "Sắt +Nhôm ",
+                "Mã BTP :",
+                "F.03.01/PKT.Rev1(10/08/2020)",
+                "3",
+                "4",
+                "2",
+                "7",
+                "6",
+                "5",
+                "10",
+                "8",
+                "9",
+                "Đổi diễn giải chi tiết 2, 3",
+                "Trần V Công",
+                "13/09/2022",
+                "13/9/2022 3:27 PM",
+                "- Dung sai độ dày vật liệu : ±0.2 mm",
+                "- Dung sai các kích thước khác :  ±0.5 mm",
+                "F",
+                "E",
+                "D",
+                "C",
+                "B",
+                "A",
+                "Sắt +Nhôm"
+              ],
+              "notes": [
+                "Người lập:",
+                "YCKT 2 :",
+                "Kiểm tra :"
+              ],
+              "source_note_refs": [
+                "3FA750",
+                "3FA756",
+                "3FA758"
+              ]
+            }
+          ],
+          "markers": [
+            {
+              "label": "1",
+              "text_ref": "3FA8A6",
+              "circle_ref": "3FA8A7",
+              "layout": "Model",
+              "center": [
+                -125005.3337592598,
+                54959.48041382647,
+                -9.094e-13
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8A8"
+              ],
+              "leader_endpoints": [
+                [
+                  -125285.6392299702,
+                  54929.13430052125,
+                  -9.094e-13
+                ]
+              ]
+            },
+            {
+              "label": "3",
+              "text_ref": "3FA8A9",
+              "circle_ref": "3FA8AA",
+              "layout": "Model",
+              "center": [
+                -124288.1910611906,
+                55107.34753788399,
+                -8e-16
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8AB"
+              ],
+              "leader_endpoints": [
+                [
+                  -124577.4937213742,
+                  55068.07992773207,
+                  -8e-16
+                ]
+              ]
+            },
+            {
+              "label": "4",
+              "text_ref": "3FA8AC",
+              "circle_ref": "3FA87A",
+              "layout": "Model",
+              "center": [
+                -124285.8124946109,
+                54950.90141421941,
+                -1.8194e-12
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8AE"
+              ],
+              "leader_endpoints": [
+                [
+                  -124566.1179653212,
+                  54920.55530091419,
+                  -1.8194e-12
+                ]
+              ]
+            },
+            {
+              "label": "2",
+              "text_ref": "3FA8AF",
+              "circle_ref": "3FA8B0",
+              "layout": "Model",
+              "center": [
+                -124289.1827596794,
+                55314.3285983945,
+                -9.103e-13
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8B1"
+              ],
+              "leader_endpoints": [
+                [
+                  -124571.9443212025,
+                  55273.85580987089,
+                  -9.103e-13
+                ]
+              ]
+            },
+            {
+              "label": "7",
+              "text_ref": "3FA8B2",
+              "circle_ref": "3FA880",
+              "layout": "Model",
+              "center": [
+                -125027.4649966557,
+                55049.94274226483,
+                -1.8197e-12
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8B4"
+              ],
+              "leader_endpoints": [
+                [
+                  -125027.9206186888,
+                  55217.20098434172,
+                  -1.819e-12
+                ]
+              ]
+            },
+            {
+              "label": "6",
+              "text_ref": "3FA8B5",
+              "circle_ref": "3FA8B6",
+              "layout": "Model",
+              "center": [
+                -124203.2815784883,
+                55521.69112753828,
+                -9.103e-13
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8B7"
+              ],
+              "leader_endpoints": [
+                [
+                  -124673.9325198105,
+                  55363.4288434215,
+                  -9.103e-13
+                ]
+              ]
+            },
+            {
+              "label": "5",
+              "text_ref": "3FA8B8",
+              "circle_ref": "3FA8B9",
+              "layout": "Model",
+              "center": [
+                -124445.605288715,
+                55695.75054505213,
+                -9.103e-13
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8BA"
+              ],
+              "leader_endpoints": [
+                [
+                  -124725.9107594254,
+                  55665.40443174692,
+                  -9.103e-13
+                ]
+              ]
+            },
+            {
+              "label": "10",
+              "text_ref": "3FA8BC",
+              "circle_ref": "3FA8BD",
+              "layout": "Model",
+              "center": [
+                -125744.8766821732,
+                55656.87668637328,
+                -3.9e-14
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA8BE"
+              ],
+              "leader_endpoints": [
+                [
+                  -126025.1821528835,
+                  55626.53057306806,
+                  -3.9e-14
+                ]
+              ]
+            },
+            {
+              "label": "8",
+              "text_ref": "3FA904",
+              "circle_ref": "3FA905",
+              "layout": "Model",
+              "center": [
+                -125563.347981647,
+                55374.12511170565,
+                -3.638e-12
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA906"
+              ],
+              "leader_endpoints": [
+                [
+                  -125344.7237683331,
+                  55343.77899840043,
+                  -3.638e-12
+                ]
+              ]
+            },
+            {
+              "label": "6",
+              "text_ref": "3FA907",
+              "circle_ref": "3FA908",
+              "layout": "Model",
+              "center": [
+                -125575.4349807143,
+                55629.49010457852,
+                -3.6386e-12
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA909"
+              ],
+              "leader_endpoints": [
+                [
+                  -125356.8107674005,
+                  55599.1439912733,
+                  -3.6386e-12
+                ]
+              ]
+            },
+            {
+              "label": "9",
+              "text_ref": "3FA90A",
+              "circle_ref": "3FA90B",
+              "layout": "Model",
+              "center": [
+                -124772.669749387,
+                54935.49102300034,
+                -1.8197e-12
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404029"
+              ],
+              "leader_refs": [
+                "3FA90C"
+              ],
+              "leader_endpoints": [
+                [
+                  -124771.8767685632,
+                  55146.83295395075,
+                  -1.819e-12
+                ]
+              ]
+            }
+          ],
+          "status": "source_row_group",
+          "executable": false,
+          "policy": "Frame-local circled STT and native leader; identity requires this frame BOM. No external row, global STT or mechanical fit is inferred.",
+          "part_codes": [
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00500.001",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00503.001",
+            "8.1.00505.001",
+            "8.1.00506.002",
+            "8.1.00507.008",
+            "8.4.00599.010"
+          ],
+          "bom_bindings": [],
+          "marker_bindings": [
+            {
+              "number_text_ref": "3FA8A6",
+              "circle_ref": "3FA8A7",
+              "part_number": "1",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00501.003"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8A8"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8A9",
+              "circle_ref": "3FA8AA",
+              "part_number": "3",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00505.001"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8AB"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8AC",
+              "circle_ref": "3FA87A",
+              "part_number": "4",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00506.002"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8AE"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8AF",
+              "circle_ref": "3FA8B0",
+              "part_number": "2",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00502.001"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8B1"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8B2",
+              "circle_ref": "3FA880",
+              "part_number": "7",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00507.008"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8B4"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8B5",
+              "circle_ref": "3FA8B6",
+              "part_number": "6",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00499.008"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8B7"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8B8",
+              "circle_ref": "3FA8B9",
+              "part_number": "5",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00498.008"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8BA"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA8BC",
+              "circle_ref": "3FA8BD",
+              "part_number": "10",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.4.00599.010"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA8BE"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA904",
+              "circle_ref": "3FA905",
+              "part_number": "8",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00500.001"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA906"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA907",
+              "circle_ref": "3FA908",
+              "part_number": "6",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00499.008"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA909"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3FA90A",
+              "circle_ref": "3FA90B",
+              "part_number": "9",
+              "sheet_ids": [
+                "404029"
+              ],
+              "part_codes": [
+                "8.1.00503.001"
+              ],
+              "table_refs": [
+                "3FA919"
+              ],
+              "leader_refs": [
+                "3FA90C"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            }
+          ]
+        },
+        {
+          "id": "frame-a1808b546e707462833e",
+          "label": "Chân khung (Cụm 1 · 9.1.00911 · Tờ 01/03)",
+          "kind": "drawing_frame",
+          "layout": "Model",
+          "label_ref": null,
+          "circle_ref": null,
+          "center": [
+            -104458.7081394838,
+            54941.90287238588,
+            0
+          ],
+          "product_codes": [],
+          "sheet_ids": [
+            "404030"
+          ],
+          "evidence_refs": [
+            "3D4C23",
+            "3D4C24",
+            "3E00FB",
+            "3E00FC",
+            "3E00FE",
+            "3E00FF",
+            "3E0101",
+            "3E0102"
+          ],
+          "frames": [
+            {
+              "sheet_id": "404030",
+              "name": "Chân khung (Cụm 1 · 9.1.00911 · Tờ 01/03)",
+              "bbox": [
+                -105221.0081394838,
+                54397.10287238588,
+                -103696.4081394838,
+                55486.70287238588
+              ],
+              "source_texts": [
+                "Vật liệu :",
+                "Lần",
+                " - Dung sai độ dày vật liệu : ±0.2 mm",
+                " - Dung sai các kích thước khác :  ±0.5 mm",
+                "29/03/2021",
+                "01",
+                "Người lập:",
+                "Kiểm tra :",
+                "Duyệt :",
+                "YCKT 2 :",
+                "Mục Đích Sử Dụng :",
+                "Số lượng :",
+                "Tỷ lệ : 1/1",
+                "Ngày vẽ :",
+                "Số tờ : 01/03",
+                "Mã TP :",
+                "DNTN SX-TM-DV QUỐC TRƯỞNG",
+                "Tên sản phẩm :",
+                "Nội dung chỉnh sửa",
+                "Người sửa",
+                "Ngày sửa",
+                "Sắt ",
+                "4",
+                "Chân khung - Sắt 36x31x468mm (Hàn gò)",
+                "Bản vẽ Tổ Hàn",
+                "V.Q.Cường",
+                "Mã BTP :",
+                "9.1.00911",
+                "F.03.01/PKT.Rev1(10/08/2020)",
+                "8.1.00496.009",
+                "3",
+                "STT",
+                "Mã Hàng",
+                "Vật Tư",
+                "SL",
+                "Vật Liệu",
+                "1",
+                "2",
+                "8.1.00501.003",
+                "8.1.00502.001",
+                "8.1.00505.001",
+                "8.1.00506.002",
+                "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+                " Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+                " Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+                "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+                "16",
+                "\nHDCV: Hàn gò (tổ Hàn) → Phay (tổ Tiện Phay)",
+                "YCKT1:  Cụm 1",
+                "Thay đổi kích thước: 8 → 10mm",
+                "Trần V Công",
+                "13/09/2022",
+                "13/9/2022 3:27 PM",
+                "- Dung sai độ dày vật liệu : ±0.2 mm",
+                "- Dung sai các kích thước khác :  ±0.5 mm",
+                "F",
+                "E",
+                "D",
+                "C",
+                "6",
+                "7",
+                "8",
+                "B",
+                "A",
+                "5",
+                "Sắt",
+                "Hàn 4 chi tiết chỉ chân dưới lại với nhau",
+                "Hàn full ở các vị trí này với nhau",
+                "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+                "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+                "Hàn 4 chi tiết chỉ chân trên lại với nhau",
+                "HDCV: Hàn gò (tổ Hàn) → Phay (tổ Tiện Phay)"
+              ],
+              "notes": [
+                "Người lập:",
+                "Kiểm tra :",
+                "YCKT 2 :",
+                "Chân khung - Sắt 36x31x468mm (Hàn gò)",
+                "Bản vẽ Tổ Hàn",
+                "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+                " Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+                " Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+                "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+                "\nHDCV: Hàn gò (tổ Hàn) → Phay (tổ Tiện Phay)",
+                "YCKT1:  Cụm 1",
+                "Hàn 4 chi tiết chỉ chân dưới lại với nhau",
+                "Hàn full ở các vị trí này với nhau",
+                "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+                "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+                "Hàn 4 chi tiết chỉ chân trên lại với nhau",
+                "HDCV: Hàn gò (tổ Hàn) → Phay (tổ Tiện Phay)"
+              ],
+              "source_note_refs": [
+                "3D3BDE",
+                "3D3BE0",
+                "3D3BE4",
+                "3D3C01",
+                "3D3C03",
+                "3D4C21",
+                "3D4C22",
+                "3D4C46",
+                "3D4C47",
+                "3D4C48",
+                "3D4C4A",
+                "3D4C4C",
+                "3D4C4E",
+                "3D4C5C",
+                "3E136B",
+                "3E136D"
+              ]
+            }
+          ],
+          "markers": [
+            {
+              "label": "3",
+              "text_ref": "3D4C23",
+              "circle_ref": "3D4C24",
+              "layout": "Model",
+              "center": [
+                -104245.5374711484,
+                55276.74645128359,
+                0.0
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404030"
+              ],
+              "leader_refs": [
+                "3D4C25"
+              ],
+              "leader_endpoints": [
+                [
+                  -104245.5374711484,
+                  55196.82113568088,
+                  1.03530349e-08
+                ]
+              ]
+            },
+            {
+              "label": "2",
+              "text_ref": "3E00FB",
+              "circle_ref": "3E00FC",
+              "layout": "Model",
+              "center": [
+                -104029.2392695225,
+                55300.81481390659,
+                0.0
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404030"
+              ],
+              "leader_refs": [
+                "3E00FD"
+              ],
+              "leader_endpoints": [
+                [
+                  -104029.2392695225,
+                  55220.88949830388,
+                  1.03530349e-08
+                ]
+              ]
+            },
+            {
+              "label": "1",
+              "text_ref": "3E00FE",
+              "circle_ref": "3E00FF",
+              "layout": "Model",
+              "center": [
+                -103952.7745674674,
+                55305.88186570772,
+                0.0
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404030"
+              ],
+              "leader_refs": [
+                "3E0100"
+              ],
+              "leader_endpoints": [
+                [
+                  -103952.7745674674,
+                  55225.95655010501,
+                  1.03530349e-08
+                ]
+              ]
+            },
+            {
+              "label": "4",
+              "text_ref": "3E0101",
+              "circle_ref": "3E0102",
+              "layout": "Model",
+              "center": [
+                -103867.8606409981,
+                55321.92738148641,
+                0.0
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "404030"
+              ],
+              "leader_refs": [
+                "3E0103"
+              ],
+              "leader_endpoints": [
+                [
+                  -103867.8606409981,
+                  55242.0020658837,
+                  1.03530349e-08
+                ]
+              ]
+            }
+          ],
+          "status": "source_row_group",
+          "executable": false,
+          "policy": "Frame-local circled STT and native leader; identity requires this frame BOM. No external row, global STT or mechanical fit is inferred.",
+          "part_codes": [
+            "8.1.00496.003",
+            "8.1.00501.003",
+            "8.1.00502.001",
+            "8.1.00505.001",
+            "8.1.00506.002"
+          ],
+          "bom_bindings": [],
+          "marker_bindings": [
+            {
+              "number_text_ref": "3D4C23",
+              "circle_ref": "3D4C24",
+              "part_number": "3",
+              "sheet_ids": [
+                "404030"
+              ],
+              "part_codes": [
+                "8.1.00505.001"
+              ],
+              "table_refs": [
+                "graphic-table:e542620b860cf0b45bee3df6"
+              ],
+              "leader_refs": [
+                "3D4C25"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3E00FB",
+              "circle_ref": "3E00FC",
+              "part_number": "2",
+              "sheet_ids": [
+                "404030"
+              ],
+              "part_codes": [
+                "8.1.00502.001"
+              ],
+              "table_refs": [
+                "graphic-table:e542620b860cf0b45bee3df6"
+              ],
+              "leader_refs": [
+                "3E00FD"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3E00FE",
+              "circle_ref": "3E00FF",
+              "part_number": "1",
+              "sheet_ids": [
+                "404030"
+              ],
+              "part_codes": [
+                "8.1.00501.003"
+              ],
+              "table_refs": [
+                "graphic-table:e542620b860cf0b45bee3df6"
+              ],
+              "leader_refs": [
+                "3E0100"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3E0101",
+              "circle_ref": "3E0102",
+              "part_number": "4",
+              "sheet_ids": [
+                "404030"
+              ],
+              "part_codes": [
+                "8.1.00506.002"
+              ],
+              "table_refs": [
+                "graphic-table:e542620b860cf0b45bee3df6"
+              ],
+              "leader_refs": [
+                "3E0103"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            }
+          ]
+        },
+        {
+          "id": "frame-26f04960ece3cb7763b2",
+          "label": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 01/02)",
+          "kind": "drawing_frame",
+          "layout": "Model",
+          "label_ref": null,
+          "circle_ref": null,
+          "center": [
+            -78300.00608021018,
+            55427.3028723859,
+            0
+          ],
+          "product_codes": [],
+          "sheet_ids": [
+            "40403B"
+          ],
+          "evidence_refs": [
+            "3ED048",
+            "3ED049",
+            "3ED04B",
+            "3ED04C",
+            "3ED057",
+            "3ED058"
+          ],
+          "frames": [
+            {
+              "sheet_id": "40403B",
+              "name": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 01/02)",
+              "bbox": [
+                -79824.60608021017,
+                54337.7028723859,
+                -76775.40608021017,
+                56516.90287238591
+              ],
+              "source_texts": [
+                "Lần",
+                "YCKT1:  Cụm 2",
+                " - Dung sai độ dày vật liệu : ±0.2 mm",
+                " - Dung sai các kích thước khác :  ±0.5 mm",
+                "29/03/2021",
+                "01",
+                "Người lập:",
+                "Kiểm tra :",
+                "Duyệt :",
+                "YCKT 2 :",
+                "Mục Đích Sử Dụng :",
+                "Số lượng :",
+                "Vật liệu :",
+                "Tỷ lệ : 1/1",
+                "Ngày vẽ :",
+                "Số tờ : 01/02",
+                "Mã TP :",
+                "DNTN SX-TM-DV QUỐC TRƯỞNG",
+                "Tên sản phẩm :",
+                "Nội dung chỉnh sửa",
+                "Người sửa",
+                "Ngày sửa",
+                "Sắt ",
+                "1",
+                "Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)",
+                "Bản Vẽ Tổ Hàn",
+                "V.Q.Cường",
+                "Mã BTP :",
+                "9.1.00911",
+                "F.03.01/PKT.Rev1(10/08/2020)",
+                "8.1.00497.009",
+                "HDCV : Hàn gò (tổ Hàn) → Nhám (tổ Nhám Tay)",
+                "5",
+                "6",
+                "7",
+                "- Dung sai độ dày vật liệu : ±0.2 mm",
+                "- Dung sai các kích thước khác :  ±0.5 mm",
+                "F",
+                "2",
+                "E",
+                "D",
+                "C",
+                "3",
+                "8",
+                "B",
+                "A",
+                "4",
+                "Sắt",
+                "Hàn khép kín vào full 1 mặt tại 2 vị trí này"
+              ],
+              "notes": [
+                "YCKT1:  Cụm 2",
+                "Người lập:",
+                "Kiểm tra :",
+                "YCKT 2 :",
+                "Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)",
+                "Bản Vẽ Tổ Hàn",
+                "HDCV : Hàn gò (tổ Hàn) → Nhám (tổ Nhám Tay)",
+                "Hàn khép kín vào full 1 mặt tại 2 vị trí này"
+              ],
+              "source_note_refs": [
+                "3D3AE6",
+                "3D3B00",
+                "3D3B02",
+                "3D3B06",
+                "3D3B24",
+                "3D3B26",
+                "3D4AC3",
+                "3D4C98"
+              ]
+            }
+          ],
+          "markers": [
+            {
+              "label": "5",
+              "text_ref": "3ED048",
+              "circle_ref": "3ED049",
+              "layout": "Model",
+              "center": [
+                -78322.16683409967,
+                55638.45974072913,
+                0.0
+              ],
+              "radius": 25.82781456953643,
+              "sheet_ids": [
+                "40403B"
+              ],
+              "leader_refs": [
+                "3ED04A"
+              ],
+              "leader_endpoints": [
+                [
+                  -78322.16683409967,
+                  55500.3801589939,
+                  0.0
+                ]
+              ]
+            },
+            {
+              "label": "6",
+              "text_ref": "3ED04B",
+              "circle_ref": "3ED04C",
+              "layout": "Model",
+              "center": [
+                -78170.15997158653,
+                55759.45017453359,
+                0.0
+              ],
+              "radius": 25.82781456953643,
+              "sheet_ids": [
+                "40403B"
+              ],
+              "leader_refs": [
+                "3ED04D"
+              ],
+              "leader_endpoints": [
+                [
+                  -78032.0803898513,
+                  55759.45017453359,
+                  0.0
+                ]
+              ]
+            },
+            {
+              "label": "7",
+              "text_ref": "3ED057",
+              "circle_ref": "3ED058",
+              "layout": "Model",
+              "center": [
+                -78232.82396888021,
+                55865.50630119833,
+                0.0
+              ],
+              "radius": 25.82781456953643,
+              "sheet_ids": [
+                "40403B"
+              ],
+              "leader_refs": [
+                "3ED059"
+              ],
+              "leader_endpoints": [
+                [
+                  -78370.90355061545,
+                  55865.50630119833,
+                  0.0
+                ]
+              ]
+            }
+          ],
+          "status": "source_row_group",
+          "executable": false,
+          "policy": "Frame-local circled STT and native leader; identity requires this frame BOM. No external row, global STT or mechanical fit is inferred.",
+          "part_codes": [
+            "8.1.00497.003",
+            "8.1.00498.008",
+            "8.1.00499.008",
+            "8.1.00507.008"
+          ],
+          "bom_bindings": [],
+          "marker_bindings": [
+            {
+              "number_text_ref": "3ED048",
+              "circle_ref": "3ED049",
+              "part_number": "5",
+              "sheet_ids": [
+                "40403B"
+              ],
+              "part_codes": [
+                "8.1.00498.008"
+              ],
+              "table_refs": [
+                "3ECF99"
+              ],
+              "leader_refs": [
+                "3ED04A"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3ED04B",
+              "circle_ref": "3ED04C",
+              "part_number": "6",
+              "sheet_ids": [
+                "40403B"
+              ],
+              "part_codes": [
+                "8.1.00499.008"
+              ],
+              "table_refs": [
+                "3ECF99"
+              ],
+              "leader_refs": [
+                "3ED04D"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3ED057",
+              "circle_ref": "3ED058",
+              "part_number": "7",
+              "sheet_ids": [
+                "40403B"
+              ],
+              "part_codes": [
+                "8.1.00507.008"
+              ],
+              "table_refs": [
+                "3ECF99"
+              ],
+              "leader_refs": [
+                "3ED059"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            }
+          ]
+        },
+        {
+          "id": "frame-58ca0f9e8735db30a2fb",
+          "label": "Khung sắt D1038 x 983mm (Cụm 3 · 9.1.00911 · Tờ 01/02)",
+          "kind": "drawing_frame",
+          "layout": "Model",
+          "label_ref": null,
+          "circle_ref": null,
+          "center": [
+            -54653.941429743354,
+            55164.8028723859,
+            0
+          ],
+          "product_codes": [],
+          "sheet_ids": [
+            "40403F"
+          ],
+          "evidence_refs": [
+            "3D4CBB",
+            "3D4CBC",
+            "3F6202",
+            "3F6203",
+            "3F6205",
+            "3F6206",
+            "3F6209",
+            "3F620A"
+          ],
+          "frames": [
+            {
+              "sheet_id": "40403F",
+              "name": "Khung sắt D1038 x 983mm (Cụm 3 · 9.1.00911 · Tờ 01/02)",
+              "bbox": [
+                -55797.39142974336,
+                54347.60287238591,
+                -53510.49142974336,
+                55982.0028723859
+              ],
+              "source_texts": [
+                "Lần",
+                " - Dung sai độ dày vật liệu : ±0.2 mm",
+                "Tên sản phẩm :",
+                "Sắt ",
+                "01",
+                "Mục Đích Sử Dụng :",
+                "Số lượng :",
+                "Ngày vẽ :",
+                "Kiểm tra :",
+                "YCKT 2 :",
+                "DNTN SX-TM-DV QUỐC TRƯỞNG",
+                "Người sửa",
+                "Ngày sửa",
+                "1",
+                "Số tờ : 01/02",
+                "Nội dung chỉnh sửa",
+                "Khung sắt D1038 x 983mm (Hàn gò nhám) ",
+                "Bảng Kê Tổ Hàn",
+                "V.Q.Cường",
+                "Mã BTP :",
+                "9.1.00911",
+                "YCKT1:  Cụm 3",
+                " - Dung sai các kích thước khác :  ±1 mm",
+                "29/03/2021",
+                "Người lập:",
+                "Duyệt :",
+                "Vật liệu :",
+                "Tỷ lệ : 1/1",
+                "Mã TP :",
+                "F.03.01/PKT.Rev1(10/08/2020)",
+                "8.1.03486.047",
+                "C2",
+                "C1",
+                "8",
+                "9",
+                "HDCV : Hàn gò nhám (tổ Hàn) → STĐ đen (tổ Gia Công)",
+                "Hàn xong nhám sạch mối hàn, nhám sạch bavia, giảm bén, gò nắn phẳng.",
+                "Trần V Công",
+                "02/08/2022",
+                "Chuyển công đoạn: Hàn gò → Hàn gò nhám",
+                "- Dung sai độ dày vật liệu : ±0.2 mm",
+                "Sắt",
+                "F",
+                "2",
+                "E",
+                "D",
+                "C",
+                "3",
+                "6",
+                "7",
+                "B",
+                "A",
+                "4",
+                "5",
+                "Khung sắt D1038 x 983mm (Hàn gò nhám)",
+                "- Dung sai các kích thước khác :  ±1 mm",
+                "Hàn full 4 mặt",
+                "Mặt ngoài hàn full",
+                "Các góc trong hàn đoạn dài 15-20mm",
+                "Hàn full mối nối"
+              ],
+              "notes": [
+                "Kiểm tra :",
+                "YCKT 2 :",
+                "Khung sắt D1038 x 983mm (Hàn gò nhám) ",
+                "Bảng Kê Tổ Hàn",
+                "YCKT1:  Cụm 3",
+                "Người lập:",
+                "HDCV : Hàn gò nhám (tổ Hàn) → STĐ đen (tổ Gia Công)",
+                "Hàn xong nhám sạch mối hàn, nhám sạch bavia, giảm bén, gò nắn phẳng.",
+                "Chuyển công đoạn: Hàn gò → Hàn gò nhám",
+                "Khung sắt D1038 x 983mm (Hàn gò nhám)",
+                "Hàn full 4 mặt",
+                "Mặt ngoài hàn full",
+                "Các góc trong hàn đoạn dài 15-20mm",
+                "Hàn full mối nối"
+              ],
+              "source_note_refs": [
+                "3D3FFB",
+                "3D3FFD",
+                "3D4013",
+                "3D4015",
+                "3D406A",
+                "3D4071",
+                "3F759C",
+                "40748D",
+                "407497",
+                "407498",
+                "4074A4",
+                "407DC5",
+                "4086FF"
+              ]
+            }
+          ],
+          "markers": [
+            {
+              "label": "C2",
+              "text_ref": "3D4CBB",
+              "circle_ref": "3D4CBC",
+              "layout": "Model",
+              "center": [
+                -53747.83565504361,
+                54791.7180287868,
+                3.88371741e-08
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "40403F"
+              ],
+              "leader_refs": [
+                "3D4CBD"
+              ],
+              "leader_endpoints": [
+                [
+                  -53858.57785285686,
+                  54803.45941521877,
+                  3.88371741e-08
+                ]
+              ]
+            },
+            {
+              "label": "C1",
+              "text_ref": "3F6202",
+              "circle_ref": "3F6203",
+              "layout": "Model",
+              "center": [
+                -53851.17373213574,
+                55433.1894531631,
+                3.88380843e-08
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "40403F"
+              ],
+              "leader_refs": [
+                "3F6204"
+              ],
+              "leader_endpoints": [
+                [
+                  -53958.36198667323,
+                  55402.10744215551,
+                  3.88380843e-08
+                ]
+              ]
+            },
+            {
+              "label": "8",
+              "text_ref": "3F6205",
+              "circle_ref": "3F6206",
+              "layout": "Model",
+              "center": [
+                -54459.15367298294,
+                55344.2213865962,
+                0.0
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "40403F"
+              ],
+              "leader_refs": [
+                "3F6207"
+              ],
+              "leader_endpoints": [
+                [
+                  -54459.15367298294,
+                  55233.78003224366,
+                  0.0
+                ]
+              ]
+            },
+            {
+              "label": "9",
+              "text_ref": "3F6209",
+              "circle_ref": "3F620A",
+              "layout": "Model",
+              "center": [
+                -54255.22551959596,
+                55304.77215580114,
+                0.0
+              ],
+              "radius": 21.0,
+              "sheet_ids": [
+                "40403F"
+              ],
+              "leader_refs": [
+                "3F620B"
+              ],
+              "leader_endpoints": [
+                [
+                  -54255.22551959596,
+                  55194.3308014486,
+                  0.0
+                ]
+              ]
+            }
+          ],
+          "status": "source_row_group",
+          "executable": false,
+          "policy": "Frame-local circled STT and native leader; identity requires this frame BOM. No external row, global STT or mechanical fit is inferred.",
+          "part_codes": [
+            "8.1.00496.003",
+            "8.1.00497.003",
+            "8.1.00500.001",
+            "8.1.00503.001"
+          ],
+          "bom_bindings": [],
+          "marker_bindings": [
+            {
+              "number_text_ref": "3D4CBB",
+              "circle_ref": "3D4CBC",
+              "part_number": "C2",
+              "sheet_ids": [
+                "40403F"
+              ],
+              "part_codes": [
+                "8.1.00497.003"
+              ],
+              "table_refs": [
+                "3F4F27"
+              ],
+              "leader_refs": [
+                "3D4CBD"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3F6202",
+              "circle_ref": "3F6203",
+              "part_number": "C1",
+              "sheet_ids": [
+                "40403F"
+              ],
+              "part_codes": [
+                "8.1.00496.003"
+              ],
+              "table_refs": [
+                "3F4F27"
+              ],
+              "leader_refs": [
+                "3F6204"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3F6205",
+              "circle_ref": "3F6206",
+              "part_number": "8",
+              "sheet_ids": [
+                "40403F"
+              ],
+              "part_codes": [
+                "8.1.00500.001"
+              ],
+              "table_refs": [
+                "3F4F27"
+              ],
+              "leader_refs": [
+                "3F6207"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            },
+            {
+              "number_text_ref": "3F6209",
+              "circle_ref": "3F620A",
+              "part_number": "9",
+              "sheet_ids": [
+                "40403F"
+              ],
+              "part_codes": [
+                "8.1.00503.001"
+              ],
+              "table_refs": [
+                "3F4F27"
+              ],
+              "leader_refs": [
+                "3F620B"
+              ],
+              "status": "verified_local_bom_identity",
+              "bom_scope": "local_source_bom",
+              "geometry_owner_verified": false
+            }
+          ]
+        }
+      ],
+      "marker_count": 22,
+      "warnings": [],
+      "scan": {
+        "placed_entity_count": 33640,
+        "placed_entity_types": {
+          "INSERT": 4169,
+          "CIRCLE": 8320,
+          "LWPOLYLINE": 1943,
+          "LINE": 11693,
+          "MTEXT": 2873,
+          "OLE2FRAME": 89,
+          "TEXT": 2168,
+          "ELLIPSE": 1044,
+          "DIMENSION": 727,
+          "ATTDEF": 15,
+          "ARC": 315,
+          "LEADER": 71,
+          "TOLERANCE": 1,
+          "HATCH": 11,
+          "MULTILEADER": 44,
+          "SPLINE": 146,
+          "REGION": 2,
+          "ATTRIB": 6,
+          "ACAD_TABLE": 3
+        },
+        "layout_count": 2,
+        "block_definition_count": 785,
+        "definition_entity_count": 25130,
+        "placed_block_instance_count": 4169,
+        "unplaced_definition_count": 735,
+        "hidden_placed_entity_count": 0,
+        "annotation_scan_complete": true,
+        "warnings": [],
+        "coverage": "all_layouts_and_placed_block_annotations",
+        "complete_design_understanding": false
+      }
+    },
+    "bom_continuations": {},
+    "confirmed_representation_links": [],
+    "material_inputs": [],
+    "warnings": [],
+    "policy": "Graph observations locate affected parts. They never authorize coordinates or manufacture changes without verified constraints."
+  },
+  "document_reading": {
+    "atlas_id": "0626d7b45ee34b0390491e1f610c10f7",
+    "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+    "edit_authorized": false,
+    "complete_design_understanding": false,
+    "status": "ready",
+    "resolution": "bom_number",
+    "traversal_complete": true,
+    "all_placed_data_read": false,
+    "placed_record_count": 40460,
+    "frame_count": 29,
+    "part_count": 12,
+    "gap_count": 0,
+    "metadata_only_types": {
+      "OLE2FRAME": 89,
+      "REGION": 2
+    },
+    "partial_types": {},
+    "selected_parts": [
+      {
+        "part_code": "8.1.00499.008",
+        "definition_conflict": false,
+        "descriptions": [
+          "La ngắn - sắt tấm 3x25x481.5mm (Lã)"
+        ],
+        "materials": [
+          "Sắt"
+        ],
+        "bom_occurrences": [
+          {
+            "table_ref": "3ECF99",
+            "part_number": "6",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 20,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+              "mirror_ref": "3ECF99/3ECFA9"
+            },
+            "sheet_ids": [
+              "40403B"
+            ],
+            "evidence_refs": [
+              "3ECF99/3ECFA7",
+              "3ECF99/3ECFA8",
+              "3ECF99/3ECFA9",
+              "3ECF99/3ECFAA",
+              "3ECF99/3ECFAB"
+            ]
+          },
+          {
+            "table_ref": "3FA919",
+            "part_number": "6",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "material": "Sắt",
+            "source_kind": "native_table",
+            "description_cell": {
+              "index": 44,
+              "raw_text": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+              "mirror_ref": "3FA919/3FBD0A"
+            },
+            "sheet_ids": [
+              "404029"
+            ],
+            "evidence_refs": [
+              "3FA919/3FBD08",
+              "3FA919/3FBD09",
+              "3FA919/3FBD0A",
+              "3FA919/3FBD0B"
+            ]
+          }
+        ],
+        "native_instances": [],
+        "detail_sheet_ids": [
+          "3E4E7A",
+          "404033"
+        ],
+        "frames": [
+          {
+            "id": "3E4E7A",
+            "name": "La ngắn (Ct6 · 9.1.00911)",
+            "layout": "Model",
+            "bbox": [
+              -92934.62302210116,
+              54397.10287238588,
+              -89377.2230221012,
+              56939.50287238586
+            ],
+            "kind": "sheet"
+          },
+          {
+            "id": "404029",
+            "name": "Khung sắt (Chi Tiết 2 · 9.1.00911 · Tờ 01/01)",
+            "layout": "Model",
+            "bbox": [
+              -127317.7182339,
+              54372.35287238588,
+              -123887.3682339,
+              56823.9528723859
+            ],
+            "kind": "sheet"
+          },
+          {
+            "id": "404033",
+            "name": "La ngắn (Ct6 · 9.1.00911 · Tờ 02/02)",
+            "layout": "Model",
+            "bbox": [
+              -88875.0536558207,
+              54377.3028723859,
+              -87350.45365582067,
+              55466.90287238589
+            ],
+            "kind": "sheet"
+          },
+          {
+            "id": "40403B",
+            "name": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 01/02)",
+            "layout": "Model",
+            "bbox": [
+              -79824.60608021017,
+              54337.7028723859,
+              -76775.40608021017,
+              56516.90287238591
+            ],
+            "kind": "sheet"
+          }
+        ],
+        "unavailable_sheet_ids": [],
+        "geometry_ownership": "unverified",
+        "edit_authorized": false
+      }
+    ],
+    "assembly_candidates": [
+      {
+        "id": "assembly:3ECF99",
+        "table_ref": "3ECF99",
+        "layout": "Model",
+        "scope_ids": [
+          "40403B"
+        ],
+        "instance_ref": null,
+        "kind": "assembly_bom",
+        "owner_code": "8.1.00497.003",
+        "owner_candidates": [
+          "8.1.00497.003"
+        ],
+        "product_codes": [
+          "9.1.00911"
+        ],
+        "domain": "product",
+        "members": [
+          {
+            "part_number": "5",
+            "part_code": "8.1.00498.008",
+            "quantity_text": "1",
+            "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "6",
+            "part_code": "8.1.00499.008",
+            "quantity_text": "2",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "7",
+            "part_code": "8.1.00507.008",
+            "quantity_text": "4",
+            "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "material": "Sắt"
+          }
+        ],
+        "number_index": {
+          "5": {
+            "part_codes": [
+              "8.1.00498.008"
+            ],
+            "status": "unique"
+          },
+          "6": {
+            "part_codes": [
+              "8.1.00499.008"
+            ],
+            "status": "unique"
+          },
+          "7": {
+            "part_codes": [
+              "8.1.00507.008"
+            ],
+            "status": "unique"
+          }
+        },
+        "duplicate_numbers": [],
+        "parent_ids": [
+          "assembly:3F4F27"
+        ],
+        "child_ids": [],
+        "covered_assembly_ids": [],
+        "equivalent_bom_ids": [],
+        "status": "bom_membership_only",
+        "executable": false,
+        "descendant_part_codes": [
+          "8.1.00498.008",
+          "8.1.00499.008",
+          "8.1.00507.008"
+        ],
+        "leaf_part_codes": [
+          "8.1.00498.008",
+          "8.1.00499.008",
+          "8.1.00507.008"
+        ]
+      },
+      {
+        "id": "assembly:3F4F27",
+        "table_ref": "3F4F27",
+        "layout": "Model",
+        "scope_ids": [
+          "40403F"
+        ],
+        "instance_ref": null,
+        "kind": "assembly_bom",
+        "owner_code": null,
+        "owner_candidates": [],
+        "product_codes": [
+          "9.1.00911"
+        ],
+        "domain": "product",
+        "members": [
+          {
+            "part_number": "C1",
+            "part_code": "8.1.00496.003",
+            "quantity_text": "4",
+            "description": "Chân khung - Sắt 36x31x468mm (Nhám)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "C2",
+            "part_code": "8.1.00497.003",
+            "quantity_text": "1",
+            "description": "Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "8",
+            "part_code": "8.1.00500.001",
+            "quantity_text": "1",
+            "description": "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "9",
+            "part_code": "8.1.00503.001",
+            "quantity_text": "2",
+            "description": "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+            "material": "Sắt"
+          }
+        ],
+        "number_index": {
+          "C1": {
+            "part_codes": [
+              "8.1.00496.003"
+            ],
+            "status": "unique"
+          },
+          "C2": {
+            "part_codes": [
+              "8.1.00497.003"
+            ],
+            "status": "unique"
+          },
+          "8": {
+            "part_codes": [
+              "8.1.00500.001"
+            ],
+            "status": "unique"
+          },
+          "9": {
+            "part_codes": [
+              "8.1.00503.001"
+            ],
+            "status": "unique"
+          }
+        },
+        "duplicate_numbers": [],
+        "parent_ids": [],
+        "child_ids": [
+          "assembly:3ECF99",
+          "assembly:graphic-table:e542620b860cf0b45bee3df6"
+        ],
+        "covered_assembly_ids": [
+          "assembly:3ECF99",
+          "assembly:graphic-table:e542620b860cf0b45bee3df6"
+        ],
+        "equivalent_bom_ids": [],
+        "status": "bom_membership_only",
+        "executable": false,
+        "descendant_part_codes": [
+          "8.1.00496.003",
+          "8.1.00497.003",
+          "8.1.00498.008",
+          "8.1.00499.008",
+          "8.1.00500.001",
+          "8.1.00501.003",
+          "8.1.00502.001",
+          "8.1.00503.001",
+          "8.1.00505.001",
+          "8.1.00506.002",
+          "8.1.00507.008"
+        ],
+        "leaf_part_codes": [
+          "8.1.00498.008",
+          "8.1.00499.008",
+          "8.1.00500.001",
+          "8.1.00501.003",
+          "8.1.00502.001",
+          "8.1.00503.001",
+          "8.1.00505.001",
+          "8.1.00506.002",
+          "8.1.00507.008"
+        ]
+      },
+      {
+        "id": "assembly:3FA919",
+        "table_ref": "3FA919",
+        "layout": "Model",
+        "scope_ids": [
+          "404029"
+        ],
+        "instance_ref": null,
+        "kind": "assembly_bom",
+        "owner_code": null,
+        "owner_candidates": [],
+        "product_codes": [
+          "9.1.00911"
+        ],
+        "domain": "product",
+        "members": [
+          {
+            "part_number": "1",
+            "part_code": "8.1.00501.003",
+            "quantity_text": "4",
+            "description": "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "2",
+            "part_code": "8.1.00502.001",
+            "quantity_text": "16",
+            "description": "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "3",
+            "part_code": "8.1.00505.001",
+            "quantity_text": "16",
+            "description": "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "4",
+            "part_code": "8.1.00506.002",
+            "quantity_text": "4",
+            "description": "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "5",
+            "part_code": "8.1.00498.008",
+            "quantity_text": "1",
+            "description": "La dài - sắt tấm 3x25x988mm (Lã)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "6",
+            "part_code": "8.1.00499.008",
+            "quantity_text": "2",
+            "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "7",
+            "part_code": "8.1.00507.008",
+            "quantity_text": "4",
+            "description": "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "8",
+            "part_code": "8.1.00500.001",
+            "quantity_text": "1",
+            "description": "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "9",
+            "part_code": "8.1.00503.001",
+            "quantity_text": "2",
+            "description": "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)",
+            "material": "Sắt"
+          },
+          {
+            "part_number": "10",
+            "part_code": "8.4.00599.010",
+            "quantity_text": "1",
+            "description": "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)",
+            "material": "Nhôm"
+          }
+        ],
+        "number_index": {
+          "1": {
+            "part_codes": [
+              "8.1.00501.003"
+            ],
+            "status": "unique"
+          },
+          "2": {
+            "part_codes": [
+              "8.1.00502.001"
+            ],
+            "status": "unique"
+          },
+          "3": {
+            "part_codes": [
+              "8.1.00505.001"
+            ],
+            "status": "unique"
+          },
+          "4": {
+            "part_codes": [
+              "8.1.00506.002"
+            ],
+            "status": "unique"
+          },
+          "5": {
+            "part_codes": [
+              "8.1.00498.008"
+            ],
+            "status": "unique"
+          },
+          "6": {
+            "part_codes": [
+              "8.1.00499.008"
+            ],
+            "status": "unique"
+          },
+          "7": {
+            "part_codes": [
+              "8.1.00507.008"
+            ],
+            "status": "unique"
+          },
+          "8": {
+            "part_codes": [
+              "8.1.00500.001"
+            ],
+            "status": "unique"
+          },
+          "9": {
+            "part_codes": [
+              "8.1.00503.001"
+            ],
+            "status": "unique"
+          },
+          "10": {
+            "part_codes": [
+              "8.4.00599.010"
+            ],
+            "status": "unique"
+          }
+        },
+        "duplicate_numbers": [],
+        "parent_ids": [],
+        "child_ids": [],
+        "covered_assembly_ids": [
+          "assembly:3ECF99",
+          "assembly:3F4F27",
+          "assembly:graphic-table:e542620b860cf0b45bee3df6"
+        ],
+        "equivalent_bom_ids": [],
+        "status": "bom_membership_only",
+        "executable": false,
+        "descendant_part_codes": [
+          "8.1.00498.008",
+          "8.1.00499.008",
+          "8.1.00500.001",
+          "8.1.00501.003",
+          "8.1.00502.001",
+          "8.1.00503.001",
+          "8.1.00505.001",
+          "8.1.00506.002",
+          "8.1.00507.008",
+          "8.4.00599.010"
+        ],
+        "leaf_part_codes": [
+          "8.1.00498.008",
+          "8.1.00499.008",
+          "8.1.00500.001",
+          "8.1.00501.003",
+          "8.1.00502.001",
+          "8.1.00503.001",
+          "8.1.00505.001",
+          "8.1.00506.002",
+          "8.1.00507.008",
+          "8.4.00599.010"
+        ]
+      }
+    ],
+    "directory": [
+      {
+        "part_code": "8.1.00496.003",
+        "descriptions": [
+          "Chân khung - Sắt 36x31x468mm (Nhám)"
+        ],
+        "part_numbers": [
+          "C1"
+        ],
+        "frame_ids": [
+          "404030",
+          "404031",
+          "404032",
+          "40403F"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00497.003",
+        "descriptions": [
+          "Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)"
+        ],
+        "part_numbers": [
+          "C2"
+        ],
+        "frame_ids": [
+          "40403B",
+          "40403C",
+          "40403F"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00498.008",
+        "descriptions": [
+          "La dài - sắt tấm 3x25x988mm (Lã)"
+        ],
+        "part_numbers": [
+          "5"
+        ],
+        "frame_ids": [
+          "3E1BB7",
+          "404029",
+          "404034",
+          "40403B"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00499.008",
+        "descriptions": [
+          "La ngắn - sắt tấm 3x25x481.5mm (Lã)"
+        ],
+        "part_numbers": [
+          "6"
+        ],
+        "frame_ids": [
+          "3E4E7A",
+          "404029",
+          "404033",
+          "40403B"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00500.001",
+        "descriptions": [
+          "Giằng dài - sắt vuông đặc 12x12x983mm (Cắt)"
+        ],
+        "part_numbers": [
+          "8"
+        ],
+        "frame_ids": [
+          "404029",
+          "404036",
+          "40403F"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00501.003",
+        "descriptions": [
+          "Chân chấn côn - sắt tấm 2x15x25x463mm (Nhám)"
+        ],
+        "part_numbers": [
+          "1"
+        ],
+        "frame_ids": [
+          "404029",
+          "40402C",
+          "40402D",
+          "404030"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00502.001",
+        "descriptions": [
+          "Chỉ chân dưới - sắt đặc 6x10.5x25mm (Cắt)"
+        ],
+        "part_numbers": [
+          "2"
+        ],
+        "frame_ids": [
+          "404029",
+          "404030"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00503.001",
+        "descriptions": [
+          "Giằng ngắn - sắt vuông đặc 12x12x485mm (Cắt)"
+        ],
+        "part_numbers": [
+          "9"
+        ],
+        "frame_ids": [
+          "404029",
+          "404037",
+          "40403F"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00505.001",
+        "descriptions": [
+          "Chỉ chân trên - sắt đặc 6x10.5x30mm (Cắt)"
+        ],
+        "part_numbers": [
+          "3"
+        ],
+        "frame_ids": [
+          "404029",
+          "404030"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00506.002",
+        "descriptions": [
+          "Bas đế - sắt tấm 5xD3xD30mm (Cắt laser)"
+        ],
+        "part_numbers": [
+          "4"
+        ],
+        "frame_ids": [
+          "3DE370",
+          "404029",
+          "404030"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.1.00507.008",
+        "descriptions": [
+          "Vòng La - sắt tấm 3x25mm (phi 1038) (Laser 1/4) (Lã)"
+        ],
+        "part_numbers": [
+          "7"
+        ],
+        "frame_ids": [
+          "3E7F12",
+          "404029",
+          "404035",
+          "40403B"
+        ],
+        "definition_conflict": false
+      },
+      {
+        "part_code": "8.4.00599.010",
+        "descriptions": [
+          "Vòng nhôm đùn - Nhôm đùn D1067x40mm (Bùi nhùi)"
+        ],
+        "part_numbers": [
+          "10"
+        ],
+        "frame_ids": [
+          "404029",
+          "404038",
+          "40403A",
+          "40403D",
+          "40403E"
+        ],
+        "definition_conflict": false
+      }
+    ],
+    "policy": "Source identity and BOM membership only. No inferred contact, confirmed datum or automatic release permission."
+  },
+  "reading_profile": {
+    "id": "mechanical-bom-assemblies-v1",
+    "name": "Bản vẽ cơ khí theo cụm, bảng kê và STT",
+    "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+    "status": "source_bom_groups_available",
+    "assembly_count": 3,
+    "selected_bom_count": 2,
+    "source_row_count": 0,
+    "ambiguous_main_count": 0,
+    "confirmed_rule_count": 0,
+    "interpretation": "local_STT_then_source_constraints",
+    "model_weights_trained": false
+  },
+  "interpreted_intent": null,
+  "request_review": null,
+  "size_interpretation": [],
+  "clarifications": [],
+  "request_interpretation": {
+    "version": 1,
+    "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+    "part_code": "8.1.00499.008",
+    "part_numbers": [
+      "6"
+    ],
+    "description": "La ngắn - sắt tấm 3x25x481.5mm (Lã)",
+    "dimension": "length",
+    "measurement_mode": "absolute",
+    "requested_value_mm": 480.0,
+    "nominal_before_mm": 481.5,
+    "measured_before_mm": 481.5,
+    "explicit_before_mm": 481.5,
+    "target_mm": 480.0,
+    "delta_mm": -1.5,
+    "target_basis": "actual_dim",
+    "nominal_dim_mismatch": false,
+    "fixed_side": null,
+    "confirmed_axes": null,
+    "keep_hole_center": false,
+    "selected_dim_axis": null,
+    "nominal_spec_mm": [
+      3.0,
+      25.0,
+      481.5
+    ],
+    "bom_refs": [
+      "3ECF99",
+      "3FA919"
+    ],
+    "bom_scope": "selected_bom",
+    "source_dimensions": [
+      {
+        "ref": "3D3A67",
+        "mm": 481.5,
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "sheet_ids": [
+          "404033"
+        ],
+        "ownership_proof": "unique_source_detail_sheet"
+      },
+      {
+        "ref": "3E6CBB",
+        "mm": 481.5,
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "sheet_ids": [
+          "3E4E7A"
+        ],
+        "ownership_proof": "unique_source_detail_sheet"
+      }
+    ],
+    "unit": "mm",
+    "unit_source": "request",
+    "problems": [],
+    "dimension_choices": [
+      {
+        "kind": "dai",
+        "label": "Chiều dài (481.5 mm)",
+        "value": "chiều dài"
+      },
+      {
+        "kind": "rong",
+        "label": "Chiều rộng (25 mm)",
+        "value": "chiều rộng"
+      },
+      {
+        "kind": "day",
+        "label": "Độ dày (3 mm)",
+        "value": "độ dày"
+      }
+    ],
+    "status": "understood",
+    "executable": false
+  },
+  "dimension_choices": [
+    {
+      "kind": "dai",
+      "label": "Chiều dài (481.5 mm)",
+      "value": "chiều dài"
+    },
+    {
+      "kind": "rong",
+      "label": "Chiều rộng (25 mm)",
+      "value": "chiều rộng"
+    },
+    {
+      "kind": "day",
+      "label": "Độ dày (3 mm)",
+      "value": "độ dày"
+    }
+  ],
+  "fulfillment_review": null,
+  "material_input_review": [],
+  "packaging_review": [],
+  "forming_review": [],
+  "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+  "plan": {
+    "summary": "Đồng bộ Chi tiết 8.1.00499.008 (-1.5mm) trên toàn bộ các công đoạn, bản vẽ chi tiết và bảng kê vật liệu BOM.",
+    "target_part": "8.1.00499.008",
+    "edits": [
+      {
+        "entity_ref": "3ECF99",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3ECF99/3ECFA9",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3FA919",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3FA919/3FBD0A",
+        "part_number": "6",
+        "purpose": "bom",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "reason": "Đổi 481.5 thành 480 trong BOM"
+      },
+      {
+        "entity_ref": "3D4987",
+        "part_number": "6",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "reason": "Đổi 481.5 thành 480"
+      },
+      {
+        "entity_ref": "3E4E8F",
+        "part_number": "6",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x481.5mm (Cắt laser)}",
+        "after": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x480mm (Cắt laser)}",
+        "reason": "Đổi 481.5 thành 480"
+      },
+      {
+        "entity_ref": "3D3A67",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88062.4533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88063.9533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "reason": "Đổi kích thước 8.1.00499.008 481.5 -> 480 mm"
+      },
+      {
+        "entity_ref": "3F4F27",
+        "part_number": "",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)\\P}",
+        "reason": "Cập nhật BOM chi tiết 8.1.00497.003 (1038 -> 1036.5 mm)"
+      },
+      {
+        "entity_ref": "3E6CBB",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89969.74065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89971.24065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "reason": "Chi tiết 8.1.00499.008: Đồng bộ DIM (481.5 -> 480 mm) trên bản vẽ 3E4E7A"
+      },
+      {
+        "entity_ref": "3D3B24",
+        "part_number": "",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Hàn gò)}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403B"
+      },
+      {
+        "entity_ref": "3D3B77",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54979.28435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54977.78435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403B"
+      },
+      {
+        "entity_ref": "3D4A4F",
+        "part_number": "",
+        "purpose": "annotation",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403C"
+      },
+      {
+        "entity_ref": "3EB5E3",
+        "part_number": "",
+        "purpose": "geometry",
+        "before": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55200.75915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55199.25915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403C"
+      }
+    ],
+    "dependencies": [],
+    "questions": [],
+    "warnings": [
+      "Lưu ý công đoạn: các mã liên quan 8.1.00499.008 chưa được sửa tự động kéo theo; chi tiết chính đã được tạo bản sửa."
+    ],
+    "operations": [
+      {
+        "ref": "3D3A67",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88062.4533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-88062.4533287975, 54784.25882411244, 5.1771957e-09], \"defpoint2\": [-88543.9533287975, 54846.30944757875, 5.1771957e-09], \"defpoint3\": [-88063.9533287975, 54846.30944757875, 5.1771957e-09], \"angle\": 0, \"text\": \"<>\"}",
+        "xyz": [],
+        "reason": "Đổi kích thước 8.1.00499.008 481.5 -> 480 mm",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3ECF99",
+        "action": "table_cell",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480 trong BOM",
+        "cell_index": 20,
+        "mirror_ref": "3ECF99/3ECFA9"
+      },
+      {
+        "ref": "3ECF99/3ECFA9",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)\\P}",
+        "xyz": [],
+        "reason": "Đồng bộ text mirror bảng kê 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3FA919",
+        "action": "table_cell",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480 trong BOM",
+        "cell_index": 44,
+        "mirror_ref": "3FA919/3FBD0A"
+      },
+      {
+        "ref": "3FA919/3FBD0A",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "xyz": [],
+        "reason": "Đồng bộ text mirror bảng kê 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D4987",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x481.5mm (Lã)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;La ngắn - sắt tấm 3x25x480mm (Lã)}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3E4E8F",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x481.5mm (Cắt laser)}",
+        "after": "{\\fArial|b0|i0|c0|p34;La ngắn - sắt tấm 3x25x480mm (Cắt laser)}",
+        "xyz": [],
+        "reason": "Cập nhật kích thước 481.5 -> 480",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3F4F27",
+        "action": "table_cell",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)\\P}",
+        "xyz": [],
+        "reason": "Cập nhật BOM chi tiết 8.1.00497.003 (1038 -> 1036.5 mm)",
+        "cell_index": 20,
+        "mirror_ref": "3F4F27/3F4F37"
+      },
+      {
+        "ref": "3F4F27/3F4F37",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)\\P}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)\\P}",
+        "xyz": [],
+        "reason": "Đồng bộ text bảng kê 8.1.00497.003 (1038 -> 1036.5 mm)",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3E6CBB",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89969.74065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "after": "{\"defpoint\": [-89969.74065760689, 55230.37152625229, 0.0], \"defpoint2\": [-90932.74065760688, 55079.85634618677, 0.0], \"defpoint3\": [-89971.24065760689, 55079.85634618677, 0.0], \"angle\": 0, \"text\": \"<>\"}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00499.008: Đồng bộ DIM (481.5 -> 480 mm) trên bản vẽ 3E4E7A",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D3B24",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Hàn gò)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Hàn gò)}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403B",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D3B77",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54979.28435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-78737.44434971172, 54979.28435380251, 1.03543914e-08], \"defpoint2\": [-78033.28149015675, 56017.28435380248, 1.03543914e-08], \"defpoint3\": [-78031.78581292332, 54977.78435380248, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403B",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3D4A4F",
+        "action": "replace_text",
+        "before": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1038mm (Nhám)}",
+        "after": "{\\fArial|b0|i0|c0|p34;\\W1;\\C256;Cụm La trên - Sắt tấm 3x988x1036.5mm (Nhám)}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403C",
+        "cell_index": -1,
+        "mirror_ref": ""
+      },
+      {
+        "ref": "3EB5E3",
+        "action": "replace_geometry",
+        "before": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55200.75915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "after": "{\"defpoint\": [-75405.7071417781, 55200.75915856557, 1.03543914e-08], \"defpoint2\": [-74701.54428222313, 56238.75915856554, 1.03543914e-08], \"defpoint3\": [-74700.0486049897, 55199.25915856554, 1.03543914e-08], \"angle\": 90.0, \"text\": \"%%C<>\"}",
+        "xyz": [],
+        "reason": "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403C",
+        "cell_index": -1,
+        "mirror_ref": ""
+      }
+    ],
+    "geometry_requests": [],
+    "context_requests": [],
+    "geometry_queries": [],
+    "metadata_requests": [],
+    "resize_recipes": [],
+    "curved_wall_recipes": [],
+    "hole_recipes": [],
+    "cut_recipes": [],
+    "profile_cut_recipes": [],
+    "process_assessments": [
+      {
+        "part_code": "8.1.00498.008",
+        "stage_id": "machining",
+        "status": "unaffected",
+        "evidence_refs": [
+          "3ECF99",
+          "3ECF99/3ECFA4"
+        ],
+        "reason": "Chi tiết cùng công đoạn trong BOM nhưng không thuộc phạm vi sửa; giữ nguyên hình học và quy cách nguồn."
+      },
+      {
+        "part_code": "8.1.00499.008",
+        "stage_id": "machining",
+        "status": "unresolved",
+        "evidence_refs": [
+          "3ECF99",
+          "3ECF99/3ECFA9"
+        ],
+        "reason": "Cùng công đoạn Gia công trong BOM; chưa chứng minh mặt tiếp xúc và quy tắc co/giãn của chi tiết này."
+      },
+      {
+        "part_code": "8.1.00507.008",
+        "stage_id": "machining",
+        "status": "unaffected",
+        "evidence_refs": [
+          "3ECF99",
+          "3ECF99/3ECFAE"
+        ],
+        "reason": "Chi tiết cùng công đoạn trong BOM nhưng không thuộc phạm vi sửa; giữ nguyên hình học và quy cách nguồn."
+      }
+    ],
+    "requires_complete_product_review": false,
+    "native_span_fits": []
+  },
+  "execution_available": true,
+  "message": "Engine tính hình học theo nguồn và đồng bộ mô tả/BOM; liên kết chưa đủ bằng chứng vẫn chặn thực thi.",
+  "changed_targets": [
+    {
+      "id": "404033",
+      "name": "La ngắn (Ct6 · 9.1.00911 · Tờ 02/02) · La ngắn - sắt tấm 3x25x481.5mm",
+      "kind": "sheet",
+      "changes_count": 2,
+      "summary": "Sửa hình học & kích thước đo thật; Đồng bộ quy cách / công đoạn",
+      "reasons": [
+        "Đổi kích thước 8.1.00499.008 481.5 -> 480 mm",
+        "Cập nhật kích thước 481.5 -> 480"
+      ]
+    },
+    {
+      "id": "40403B",
+      "name": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 01/02) · Cụm La trên - Sắt tấm 3x988x1038mm",
+      "kind": "sheet",
+      "changes_count": 4,
+      "summary": "Sửa hình học & kích thước đo thật; Đồng bộ bảng kê vật tư BOM",
+      "reasons": [
+        "Cập nhật kích thước 481.5 -> 480 trong BOM",
+        "Đồng bộ text mirror bảng kê 481.5 -> 480",
+        "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403B",
+        "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403B"
+      ]
+    },
+    {
+      "id": "404029",
+      "name": "Khung sắt (Chi Tiết 2 · 9.1.00911 · Tờ 01/01) · Khung sắt + viền nhôm 471x1048mm & 40x1067mm",
+      "kind": "sheet",
+      "changes_count": 2,
+      "summary": "Đồng bộ bảng kê vật tư BOM",
+      "reasons": [
+        "Cập nhật kích thước 481.5 -> 480 trong BOM",
+        "Đồng bộ text mirror bảng kê 481.5 -> 480"
+      ]
+    },
+    {
+      "id": "3E4E7A",
+      "name": "La ngắn (Ct6 · 9.1.00911) · La ngắn - sắt tấm 3x25x481.5mm",
+      "kind": "sheet",
+      "changes_count": 2,
+      "summary": "Sửa hình học & kích thước đo thật; Đồng bộ quy cách / công đoạn",
+      "reasons": [
+        "Cập nhật kích thước 481.5 -> 480",
+        "Chi tiết 8.1.00499.008: Đồng bộ DIM (481.5 -> 480 mm) trên bản vẽ 3E4E7A"
+      ]
+    },
+    {
+      "id": "40403F",
+      "name": "Khung sắt D1038 x 983mm (Cụm 3 · 9.1.00911 · Tờ 01/02)",
+      "kind": "sheet",
+      "changes_count": 2,
+      "summary": "Đồng bộ bảng kê vật tư BOM",
+      "reasons": [
+        "Cập nhật BOM chi tiết 8.1.00497.003 (1038 -> 1036.5 mm)",
+        "Đồng bộ text bảng kê 8.1.00497.003 (1038 -> 1036.5 mm)"
+      ]
+    },
+    {
+      "id": "40403C",
+      "name": "Cụm La trên (Cụm 2 · 9.1.00911 · Tờ 02/02) · Cụm La trên - Sắt tấm 3x988x1038mm",
+      "kind": "sheet",
+      "changes_count": 2,
+      "summary": "Sửa hình học & kích thước đo thật; Đồng bộ quy cách / công đoạn",
+      "reasons": [
+        "Chi tiết 8.1.00497.003: Đồng bộ quy cách (1038 -> 1036.5 mm) trên bản vẽ 40403C",
+        "Chi tiết 8.1.00497.003: Đồng bộ DIM (1038 -> 1036.5 mm) trên bản vẽ 40403C"
+      ]
+    }
+  ],
+  "edit_gate": {
+    "version": 1,
+    "phase": "plan",
+    "mode": "REVIEW",
+    "preview_allowed": true,
+    "auto_release_allowed": false,
+    "manual_release_allowed": false,
+    "certificate": null,
+    "checks": [
+      {
+        "id": "source_identity",
+        "status": "passed",
+        "detail": "Nguồn CAD khớp kế hoạch.",
+        "evidence_refs": []
+      },
+      {
+        "id": "source_reading",
+        "status": "passed",
+        "detail": "Đã đọc cấu trúc toàn file.",
+        "evidence_refs": []
+      },
+      {
+        "id": "constraints",
+        "status": "passed",
+        "detail": "Các thao tác trực tiếp đã qua kiểm nguồn, ràng buộc và hình học.",
+        "evidence_refs": [
+          "3D3A67",
+          "3ECF99",
+          "3ECF99/3ECFA9",
+          "3FA919",
+          "3FA919/3FBD0A",
+          "3D4987",
+          "3E4E8F",
+          "3F4F27",
+          "3F4F27/3F4F37",
+          "3E6CBB",
+          "3D3B24",
+          "3D3B77",
+          "3D4A4F",
+          "3EB5E3"
+        ]
+      },
+      {
+        "id": "intent_and_impact",
+        "status": "passed",
+        "detail": "Không còn câu hỏi trong kế hoạch đã kiểm.",
+        "evidence_refs": []
+      },
+      {
+        "id": "dependency_confirmation",
+        "status": "passed",
+        "detail": "Không có phụ thuộc đang yêu cầu xác nhận.",
+        "evidence_refs": []
+      },
+      {
+        "id": "relationship_evidence",
+        "status": "review",
+        "detail": "Có hình chi tiết, DIM hoặc quan hệ liên quan chưa đủ bằng chứng; cần kỹ sư đối chiếu.",
+        "evidence_refs": []
+      },
+      {
+        "id": "certification",
+        "status": "review",
+        "detail": "Chưa có chứng nhận loại sửa phù hợp; không tự phát hành.",
+        "evidence_refs": []
+      },
+      {
+        "id": "native_reopen",
+        "status": "review",
+        "detail": "Phải kiểm DWG kết quả sau lưu/mở lại trước khi phát hành.",
+        "evidence_refs": []
+      }
+    ],
+    "questions": [],
+    "binding": {
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "plan_hash": "6d436d406bc191052cba1e8c473c312164a4c1880572a7ada08243a97a61aeba",
+      "document_id": "5a1955b75d4345b69d19d38b7cfaf75c",
+      "plan_id": "25710fbf96f645eab9129dfd7da7d44f"
+    },
+    "basis": "current_source_and_verified_artifacts",
+    "model_confidence_used": false,
+    "policy": "AUTO cần loại sửa được chứng nhận, đủ quan hệ và DWG toàn hồ sơ mở lại đạt kiểm. REVIEW chỉ tạo bản đề xuất khi kiểm trực tiếp đạt. BLOCK không ghi CAD.",
+    "changed_refs": [
+      "3D3A67",
+      "3ECF99",
+      "3ECF99/3ECFA9",
+      "3FA919",
+      "3FA919/3FBD0A",
+      "3D4987",
+      "3E4E8F",
+      "3F4F27",
+      "3F4F27/3F4F37",
+      "3E6CBB",
+      "3D3B24",
+      "3D3B77",
+      "3D4A4F",
+      "3EB5E3"
+    ],
+    "relationship_evidence": [
+      {
+        "kind": "relationship_constraint",
+        "status": "review",
+        "detail": "Có quan hệ chi tiết liên quan nhưng chưa có quy tắc/mốc hình học thực thi.",
+        "evidence_refs": [],
+        "part_codes": [
+          "8.1.00497.003",
+          "8.1.00499.008"
+        ]
+      }
+    ]
+  },
+  "relationship_evidence": [
+    {
+      "kind": "relationship_constraint",
+      "status": "review",
+      "detail": "Có quan hệ chi tiết liên quan nhưng chưa có quy tắc/mốc hình học thực thi.",
+      "evidence_refs": [],
+      "part_codes": [
+        "8.1.00497.003",
+        "8.1.00499.008"
+      ]
+    }
+  ],
+  "user_request": "đổi chi tiết số 6 481.5mm thành 480mm",
+  "whole_document": true,
+  "target_resolution": {
+    "atlas_id": "0626d7b45ee34b0390491e1f610c10f7",
+    "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+    "edit_authorized": false,
+    "complete_design_understanding": false,
+    "status": "resolved",
+    "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+    "part_codes": [
+      "8.1.00499.008"
+    ]
+  }
+}

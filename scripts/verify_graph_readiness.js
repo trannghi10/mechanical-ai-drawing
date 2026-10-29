@@ -1,0 +1,12 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const source=fs.readFileSync('frontend/index.html','utf8').split('<script>')[1].split('</script>')[0];
+const start=source.indexOf('function renderPartGraph(){');
+const end=source.indexOf('\n',start);
+const nodes=new Map();
+const $=id=>{if(!nodes.has(id))nodes.set(id,{value:'',textContent:'',children:[],replaceChildren(){this.children=[]},append(p){this.children.push(p)}});return nodes.get(id)};
+const context={$,documentGraph:{nodes:[],edges:[],warnings:[{message:'Missing source BOM'}],bom_readiness:{message:'CAD inventory read; BOM unresolved'}},document:{createElement:()=>({textContent:''})}};
+vm.createContext(context);vm.runInContext(source.slice(start,end),context);
+context.renderPartGraph();
+assert.equal($('graphStatus').textContent,'CAD inventory read; BOM unresolved');
+assert.equal($('graphView').children[0].textContent,'Missing source BOM');
+console.log('A parsed CAD inventory without a verified BOM is explicitly unresolved: passed');

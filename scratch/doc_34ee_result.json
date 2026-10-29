@@ -1,0 +1,92 @@
+{
+  "status": "blocked",
+  "message": "Yêu cầu khớp hơn 10 mã chi tiết; cần chia thành nhóm sửa có thể đối chiếu.",
+  "total_parts": 46,
+  "sheet_parts_count": 21,
+  "sheet_parts": [
+    {
+      "code": "3.8.00563",
+      "desc": "Dây đai hàng 1.5x15mm"
+    },
+    {
+      "code": "8.1.05206.008",
+      "desc": "La ngắn (Dauphine 32\" rnd) - Sắt tấm 3x120x478mm  (Lã)"
+    },
+    {
+      "code": "8.1.05207.008",
+      "desc": "La hàn (Dauphine 32\" rnd) - Sắt tấm 3x120x1066mm (Lã)"
+    },
+    {
+      "code": "8.1.05232.135",
+      "desc": "Mặt trên chữ thập (Dauphine 32\" rnd) - Sắt tấm 3x1066x1066mm (Sơn đen)"
+    },
+    {
+      "code": "8.1.05234.265",
+      "desc": "Khung sắt 724x381.5x811.5mm (Sơn màu Antique Brass)"
+    },
+    {
+      "code": "8.1.05417.258",
+      "desc": "Tấm ốp cung - Sắt tấm 1.5x382x724x812mm (Cắt laser uốn cắt)"
+    },
+    {
+      "code": "8.1.06034.003",
+      "desc": "Cụm la xương dưới - Sắt tấm 1.5x379x808mm (Nhám)"
+    },
+    {
+      "code": "8.1.06126.196",
+      "desc": "La xương trên trái - Sắt tấm 1.5x131x540mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06127.196",
+      "desc": "La xương trên phải - Sắt tấm 1.5x134x561mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06128.196",
+      "desc": "La xương trên - Sắt tấm 1.5x30x750mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06129.196",
+      "desc": "La xương giữa trái - Sắt tấm 1.5x131x529mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06130.196",
+      "desc": "La xương giữa phải - Sắt tấm 1.5x134x550mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06131.196",
+      "desc": "La xương dưới - Sắt tấm 1.5x30x750mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06132.196",
+      "desc": "La xương dưới trái - Sắt tấm 1.5x131x540mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06133.196",
+      "desc": "La xương dưới phải - Sắt tấm 1.5x134x561mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06134.196",
+      "desc": "Tấm ốp trên - Sắt tấm 1.5x381x809mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06135.196",
+      "desc": "Tấm ốp dưới - Sắt tấm 1.5x381x809mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06136.196",
+      "desc": "Tấm ốp - Sắt tấm 1.5x721x808mm (Cắt laser nhám)"
+    },
+    {
+      "code": "8.1.06137.003",
+      "desc": "Cụm la xương trên - Sắt tấm 1.5x379x808mm (Nhám)"
+    },
+    {
+      "code": "8.1.06138.003",
+      "desc": "Cụm la xương giữa - Sắt tấm 1.5x379x806mm (Nhám)"
+    },
+    {
+      "code": "9.1.03714",
+      "desc": "Long đền sắt 8x19x1.5mm - Xi đen"
+    }
+  ]
+}

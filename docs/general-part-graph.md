@@ -1,0 +1,52 @@
+# General part graph — implementation status
+
+The graph is built per source file and cached with its source and detection hashes. Part codes are identities; balloon numbers remain scoped to their BOM occurrences. Existing sheet detection and red-cross exclusions are reused unchanged.
+
+Source notes can connect detail sheets, including transitive chains and cycles. Shared dimensions alone do not establish a mechanical relationship. Detail sheet membership does not prove ownership of every geometry entity.
+
+The explorer now focuses on one selected drawing. Its request uses exactly that root, independently of any formerly saved multi-selection. Related drawings still participate in editing; they are reviewed one at a time through a collapsed selector. Approval still requires review of every modified target and confirmation of the dependencies.
+
+Planning expands to related detail sheets, their assembly BOM sheets, and the sheets containing relationship evidence. Selecting a detail directly can resolve its exact code back to its BOM; a conflicting balloon number does not select a different product. Scoped numeric notes such as “Hàn chi tiết số 2, 6 vào chi tiết số 3” and “Lắp khít trong chi tiết số 1” are supported. Notes with no unique BOM mapping remain unresolved. Sheet count no longer imposes an arbitrary eight-frame cutoff; the parsed entity and byte limits still apply.
+
+All planning paths, including checked compilers, now block operations if observed affected parts have no numeric dependency rule or conflicting BOM definitions. The apply endpoint repeats this coverage check for stored plans. It does not establish unobserved contacts or prove strength from geometry.
+
+The checked tube compiler can process multiple independently proven rectangular mating plates as one transaction. Both increasing and decreasing wall thickness preserve measured outer dimensions and source clearance. It checks each companion's holes, drawing dimensions, repeated native BOM cells/mirrors and cut-grid layout. Narrower bas keep the existing production quantity; wider bas reduce the count when necessary. Unknown companions or conflicting edits abort the entire transaction. More complex profiles, ambiguous multiple views and new cut instances require additional constraints/adapters.
+
+Proposal formatting groups identical visible descriptions across BOM, mirrors and titles, with the number of synchronized locations. The underlying CAD operations and audit trail remain complete; two different cells in one table are distinct operations. Only one revision panel and one download link per export type are displayed.
+
+Production graph version 7: 24 distinct codes, 41 CAD tables and 34 active sheets. Six source-note edges include tube-to-bas fit, the two C1 weld connections and three propagated C1-to-base connections. There are 34 unresolved table warnings. These counts are observations, not evidence that all assembly relationships or numeric contact constraints have been recovered.
+
+Added: rectangular-profile resize recipes, source-measured linear equation solving across parts, and local DWG export using the free converter explicitly selected by the user. Export requires a DWG signature and successful property/table/layout checks after reopen.
+
+Earlier verification included a different three-part fixture with two mating plates, both directions of thickness change, repeated BOM occurrences, rollback on an unsupported companion, scoped numbered notes, stored-plan impact coverage and a narrowing operation that would put a hole outside the new outline. The original four-target production fixture compiled 1480 operations for tube 2 → 1.2 mm, bas 25.6 → 27.2 mm and cutting count 306 → 286. The full document graph identifies four BOM occurrences of each affected part, so expanded planning includes those assembly sheets and updates their native cells and mirrors when coverage is complete. Current process-wide policy blocks that partial fixture as a complete backup while bas 1/2/3 remain unresolved. Parser budget is now 32000 entities/48 MB; inference has a separate model token budget.
+
+Remaining: verified leader-to-geometry ownership, numeric constraints for more mechanical shapes, general nesting beyond the source grid, and broader BOM templates. Arbitrary drawing edits remain unsupported. The exporter works for validated revisions; it cannot make an incomplete engineering plan executable or certify structural quality.
+
+
+## Manufacturing-stage review (2026-10-08)
+
+The BOM parser reads recognized operations in parentheses, such as `(Cắt laser)` / `(Cắt lazer)`, independently of size notes. Groups are tied to a verified source BOM, not every similarly named process in the document. A request checks every co-process member, then follows source-backed assembly edges. Co-process membership alone does not authorize changing all thicknesses or stretching a profile.
+
+Each member has one visible assessment per code/stage, deduplicated across repeated assembly BOMs: changed by checked geometry, source-backed unaffected, or unresolved. A changed companion needs its own geometry edits and numeric dependency. Unaffected classification needs an explicit source note in its own detail frame; an unrelated note or unchanged exterior image is insufficient. Planning and applying block a partial backup when any stage member remains unresolved. Approval and final exports also recheck stage coverage, including older saved revisions.
+
+LEG6949's four matching BOMs identify five laser-stage members: balloons 1, 2, 3, 4 and 6. The existing checked fit rule covers 6 and 4. The other three are now included for review; their contact surfaces/anchors are not yet established, so the former tube-and-one-bas DWG remains an incomplete preview, not proof of a complete process-wide change. No new correct manufacturing backup is claimed for those three parts.
+
+The browser fits previews against both viewport dimensions, centers the drawing, and caps the workspace to 60vh/600px. Zoom and read-detail controls remain available. Parsing has its own bounded budget of 32000 entities/48 MB for linked process groups; model inference retains its separate token budget and must not silently truncate.
+
+Verification: 174 tests pass. New cases cover source-stage extraction, isolation between products, two checked mating companions, unresolved-member rollback, source-note ownership, and preventing older revisions from bypassing the new stage policy. JavaScript checks also cover wide/tall/mobile fits and deduplicated stage rows.
+
+Co-process candidate drawings retain text, true DIMENSIONs and source block inventories without duplicating repeated cut geometry. Their omitted instance geometry is explicitly marked unexpanded; review-only refs cannot be edited. The real stage check now returns ten related frames and five deduplicated assessments, with 1/2/3 unresolved and no executable operations.
+
+Assembly/process sheets with the same explicit product code as the verified BOM are also retrieved for review when they contain source assembly instructions. This retrieves the two LEG6949 frames 434BBD/434C87, including the C1 weld instructions. Product-code matching does not map their balloon numbers or create executable edges. Their geometry stays review-only; the UI opens one original frame at a time without changing the request root. A candidate note is cited in an unresolved assessment only when its explicit “chi tiết” numbers match; step numbers are not part numbers.
+
+## Assembly inheritance and local visual review (2026-10-08)
+
+Graph version 7 extends numbered-note inheritance to consistent BOMs under an explicit product code. An explicit matching material label on source and BOM frames narrows that lookup: a product's metal and packaging BOMs can reuse balloon numbers without being merged. Conflicting mappings still fail. Unsupported revision tables cannot shadow a verified inherited BOM. A uniquely defined `YCKT1: C1` assembly membership can propagate to another numbered part through an explicit source weld/assembly instruction; both source notes are retained as evidence.
+
+The checked compiler keeps unverified physical companions in review inventory rather than expanding thousands of repeated cut instances. Stage coverage is checked before the impact gate clears operations, so missing contacts do not erase the distinction between supported and unresolved members. Source-note weld edges remain non-executable.
+
+`POST /documents/{document_id}/change-plans/{plan_id}/review-process` adds local vision observations to a blocked proposal. The model sees assembly images, selected real dimensions and assembly notes, distinct BOM identities and graph observations. A detailed welding view is preferred for the fourth image when available. Images are 900 pixels wide for CPU inference; notes and true measurements come from the parser. This is an explicitly selected review packet, not a complete editing context or a claim that every entity was supplied to inference.
+
+All unresolved members must be reported once. Invented codes, image IDs, CAD refs and operations are rejected. Source hash is checked before/after inference, including cached reads. The service stores hypotheses separately and never changes operations, questions, stage assessments or execution availability. Cloud providers are rejected before rendering internal CAD. The UI automatically continues a blocked checked plan into this review when local AI is ready, locks context switching during inference, and shows missing contact/anchor information without representing it as completed geometry.
+
+194 Python tests pass. Additional regression cases cover consistent/repeated BOM inheritance, conflicting mappings, C1 propagation, same-product packaging isolation, unsupported revision tables, local-only review, exact member coverage, invented refs, source changes and preventing vision output from making a blocked plan executable. Generation uses required object properties keyed by the unresolved source codes, with enums for allowed related codes, image IDs and CAD refs; the model cannot add a fourth member or omit one in a valid response. Frontend checks cover the automatic-review predicate alongside formatting and fit behavior. Remaining manufacturing work includes contact-to-geometry ownership, verified resize/nesting adapters for the unresolved bas, and assembly-view synchronization. Local vision observations alone do not complete those steps.

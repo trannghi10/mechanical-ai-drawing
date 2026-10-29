@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework Condition="'$(AutoCADTargetFramework)' == ''">net10.0-windows</TargetFramework>
+    <TargetFramework Condition="'$(AutoCADTargetFramework)' != ''">$(AutoCADTargetFramework)</TargetFramework>
+    <AssemblyName>MechanicalCad.Local</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>x64</PlatformTarget>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <BaseIntermediateOutputPath>obj-local/</BaseIntermediateOutputPath>
+    <OutputPath>bin-local/$(TargetFramework)/</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Commands.cs" />
+    <Compile Include="CenterMarks.cs" />
+    <Compile Include="PolylineDimensionProbe.cs" />
+    <Compile Include="DimensionRelationshipRepair.cs" />
+    <Compile Include="NativePointReferenceProbe.cs" />
+    <Compile Include="PointBindingMvp.cs" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(AutoCADReferencePackages)' != 'true'">
+    <Reference Include="AcDbMgd"><HintPath>$(AutoCADManagedDir)/AcDbMgd.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="AcCoreMgd"><HintPath>$(AutoCADManagedDir)/AcCoreMgd.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <ItemGroup Condition="'$(AutoCADReferencePackages)' == 'true'">
+    <!-- Compile-time preflight only. Never distribute Autodesk runtime DLLs. -->
+    <PackageReference Include="AutoCAD.NET.Core" Version="26.0.0" ExcludeAssets="runtime" PrivateAssets="all" />
+    <PackageReference Include="AutoCAD.NET.Model" Version="26.0.0" ExcludeAssets="runtime" PrivateAssets="all" />
+  </ItemGroup>
+  <Target Name="CheckAutodeskSdk" BeforeTargets="ResolveReferences" Condition="'$(AutoCADReferencePackages)' != 'true'">
+    <Error Condition="!Exists('$(AutoCADManagedDir)/AcDbMgd.dll') Or !Exists('$(AutoCADManagedDir)/AcCoreMgd.dll')" Text="Set AutoCADManagedDir to the actual installed AutoCAD SDK directory." />
+  </Target>
+</Project>

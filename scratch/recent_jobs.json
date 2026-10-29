@@ -1,0 +1,180 @@
+[
+  {
+    "doc": "34ee84f35e1a44fb81c56044397a0fff",
+    "job": "1472be29040a48a892a63d0ee2b79869.json",
+    "request": "Tất cả vật liệu sắt tấm cắt lazer đổi từ 1.5 mm thành 1mm",
+    "status": "blocked",
+    "message": "Yêu cầu khớp hơn 10 mã chi tiết; cần chia thành nhóm sửa có thể đối chiếu.",
+    "target_resolution": {
+      "atlas_id": "53551789291f4e28bff2617353f75121",
+      "source_hash": "489b241478f8ad569f5061ceb8b81147cbee51d300ddd7b1c8eef01da03dc8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "blocked",
+      "message": "Yêu cầu khớp hơn 10 mã chi tiết; cần chia thành nhóm sửa có thể đối chiếu.",
+      "candidates": []
+    },
+    "time": 1793073873.2392955
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "76e9ef3eefdd448ba976efc147441f72.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793073360.734506
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "18196bc063984b178fe059cfd7fe11f9.json",
+    "request": "Khung chân C1 chiều cao thành 405",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00496.003"
+      ]
+    },
+    "time": 1793072774.9359386
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "2dfbcbf4904b420ab7f4ab0a6001e332.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793072713.8689995
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "2e5d66b6adee450da1891f82d9de252c.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793072639.485682
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "c0aae8b0faf04e3a82169e137d651fc1.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793072106.7304978
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "402a1c1c70634802b8f8fecf5964de1e.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793072067.4847977
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "f371c18f27444e47a7601b74ab30235d.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "cancelled",
+    "message": "Đã hủy phân tích. Chưa tạo bản sửa; file gốc giữ nguyên.",
+    "target_resolution": null,
+    "time": 1793071985.9075663
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "76e41a8ca8f44fd19e8a9c08d2ce1890.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793071900.4174168
+  },
+  {
+    "doc": "5a1955b75d4345b69d19d38b7cfaf75c",
+    "job": "7edcd2151cd949beaae05fef539cfaeb.json",
+    "request": "Chi tiết 1 hạ từ 463 xuống 400",
+    "status": "ready",
+    "message": "Đã lập kế hoạch. Xem kết quả và các liên kết cần bổ sung trước khi tạo bản sửa.",
+    "target_resolution": {
+      "atlas_id": "a83c783e39a84a54902d74d9690fbfb9",
+      "source_hash": "0326bcc4aafb8dfa8ff0140b950008ad3c61b3af78a402a48798e006c2d0f8af",
+      "edit_authorized": false,
+      "complete_design_understanding": false,
+      "status": "resolved",
+      "message": "Đã tìm chi tiết từ hồ sơ toàn file.",
+      "part_codes": [
+        "8.1.00501.003"
+      ]
+    },
+    "time": 1793071627.5842676
+  }
+]

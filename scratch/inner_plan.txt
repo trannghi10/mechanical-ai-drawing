@@ -1,0 +1,9 @@
+summary: Chỉnh sửa kích thước 8.1.05417.258 từ 1.5mm thành 1mm
+target_part: 8.1.05417.258
+edits: 118
+dependencies: 0
+operations: 0
+questions: ['Quy cách nguyên liệu mới còn thiếu ghi chờ cấp mã hoặc đang giữ mã tấm cũ: 3A76EB', 'Công đoạn chưa kiểm tra đủ ảnh hưởng lắp ghép cho mã chi tiết: 8.1.05417.258, 8.1.06126.196, 8.1.06127.196, 8.1.06128.196, 8.1.06129.196, 8.1.06130.196, 8.1.06131.196, 8.1.06132.196, 8.1.06133.196, 8.1.06134.196, 8.1.06135.196, 8.1.06136.196. Cần xác định mặt tiếp xúc/kích thước giữ cố định; chưa tạo backup đầy đủ.']
+warnings: ['Lưu ý công đoạn: các mã liên quan 8.1.05417.258, 8.1.06126.196, 8.1.06127.196, 8.1.06128.196, 8.1.06129.196, 8.1.06130.196, 8.1.06131.196, 8.1.06132.196, 8.1.06133.196, 8.1.06134.196, 8.1.06135.196, 8.1.06136.196 chưa được sửa tự động kéo theo; chi tiết chính đã được tạo bản sửa.']
+resize_recipes: 0
+curved_wall_recipes: 0
